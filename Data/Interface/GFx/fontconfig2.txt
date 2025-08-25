@@ -1,0 +1,47 @@
+﻿[FontConfig "Korean"]
+fontlib "fonts/fonts_kr.swf"
+map "$NormalFont" = "굴림"
+
+tr "@gauge_info_01" = "생명 : "
+tr "@gauge_info_02" = "마나 : "
+tr "@gauge_info_03" = "S D : "
+tr "@gauge_info_04" = "A G : "
+tr "@gauge_info_05" = "경험치 : "
+
+tr "@menu_btn_key_01" = "X"
+tr "@menu_btn_key_02" = "C"
+tr "@menu_btn_key_03" = "I/V"
+tr "@menu_btn_key_04" = "M"
+tr "@menu_btn_key_05" = "F"
+tr "@menu_btn_key_06" = "U"
+
+tr "@menu_btn_info_01" = "인게임샵"
+tr "@menu_btn_info_02" = "캐 릭 터"
+tr "@menu_btn_info_03" = "장  비"
+tr "@menu_btn_info_04" = "이  동"
+tr "@menu_btn_info_05" = "내친구"
+tr "@menu_btn_info_06" = "메  뉴"
+
+[FontConfig "English"]
+fontlib "fonts/fonts_en.swf"
+map "$NormalFont" = "Arial"
+
+tr "@gauge_info_01" = "H P : "
+tr "@gauge_info_02" = "M P : "
+tr "@gauge_info_03" = "S D : "
+tr "@gauge_info_04" = "A G : "
+tr "@gauge_info_05" = "EXP : "
+
+tr "@menu_btn_key_01" = "X"
+tr "@menu_btn_key_02" = "C"
+tr "@menu_btn_key_03" = "I/V"
+tr "@menu_btn_key_04" = "M"
+tr "@menu_btn_key_05" = "F"
+tr "@menu_btn_key_06" = "U"
+
+tr "@menu_btn_info_01" = "Shop"
+tr "@menu_btn_info_02" = "Character"
+tr "@menu_btn_info_03" = "Inventory"
+tr "@menu_btn_info_04" = "Move"
+tr "@menu_btn_info_05" = "MyFriend"
+tr "@menu_btn_info_06" = "Menu"

@@ -1,0 +1,602 @@
+31@1@105@Cyclone Sword@170@25@Item +15 FULL.  #Classe: BM #Com 3 Sockets@@182@185@0@0@177@1@Creditos@Creditos@181@200@0@1050|@36@2@1@1050|@0@508@669
+31@2@104@Blast Break@170@20@Item +15 FULL.  #Classe: BM / DM #Com 5 Sockets@@182@185@0@0@177@1@Creditos@Creditos@181@200@0@1040|@37@2@1@1040|@0@508@669
+31@3@106@Phoenix Soul Star@170@25@Item +15 FULL. #Classe: FM@@182@185@0@0@177@1@Creditos@Creditos@181@200@0@1060|@35@2@1@1060|@0@508@669
+31@4@107@Piercing Blade Glove@170@20@Item +15 FULL. #Classe: FM@@182@185@0@0@177@1@Creditos@Creditos@181@200@0@1070|@34@2@1@1070|@0@508@669
+31@5@108@Holy Storm Claw@170@15@Item +15 FULL. #Classe: FM@@182@185@0@0@177@1@Creditos@Creditos@181@200@0@1080|@33@2@1@1080|@0@508@669
+31@6@109@Sacred Glove@170@10@Item +15 FULL. #Classe: FM@@182@185@0@0@177@1@Creditos@Creditos@181@200@0@1090|@32@2@1@1090|@0@508@669
+31@7@110@Rune Blade@170@15@Item +15 FULL. #Classe: DM@@182@185@0@0@177@1@Creditos@Creditos@181@200@0@1100|@31@2@1@1100|@0@508@669
+31@8@111@Asura@170@25@Item +15 FULL.  #Classe: DM #Com 4 Sockets@@182@185@0@0@177@1@Creditos@Creditos@181@200@0@1110|@30@2@1@1110|@0@508@669
+31@9@112@Sonic Blade@170@20@Item +15 FULL.  #Classe: BM #Com 4 Sockets@@182@185@0@0@177@1@Creditos@Creditos@181@200@0@1120|@29@2@1@1120|@0@508@669
+31@10@113@Rune Bastard Sword@170@20@Item +15 FULL.   #Classe: DM  #Com 4 Sockets@@182@185@0@0@177@1@Creditos@Creditos@181@200@0@1130|@28@2@1@1130|@0@508@669
+31@11@114@Sword Breaker@170@20@Item +15 FULL.  #Classe: BM #Com 4 Sockets@@182@185@0@0@177@1@Creditos@Creditos@181@200@0@1140|@27@2@1@1140|@0@508@669
+31@12@115@Flameberge@170@25@Item +15 FULL.  #Classe: BM #Com 4 Sockets@@182@185@0@0@177@1@Creditos@Creditos@181@200@0@1150|@26@2@1@1150|@0@508@669
+31@13@116@Sword Dancer@170@20@Item +15 FULL. #Classe: DM@@182@185@0@0@177@1@Creditos@Creditos@181@200@0@1160|@25@2@1@1160|@0@508@669
+31@14@117@Daybreak@170@20@Item +15 FULL. #Classe: BM@@182@185@0@0@177@1@Creditos@Creditos@181@200@0@1170|@24@2@1@1170|@0@508@669
+31@15@118@Explosion Blade@170@15@Item +15 FULL. #Classe: DM@@182@185@0@0@177@1@Creditos@Creditos@181@200@0@1180|@23@2@1@1180|@0@508@669
+31@16@119@Bone Blade@170@15@Item +15 FULL. #Classe: BM@@182@185@0@0@177@1@Creditos@Creditos@181@200@0@1190|@22@2@1@1190|@0@508@669
+31@17@120@Dark Reign Blade@170@10@Item +15 FULL. #Classe: DM@@182@185@0@0@177@1@Creditos@Creditos@181@200@0@1200|@21@2@1@1200|@0@508@669
+31@18@121@Knight Blade@170@20@Item +15 FULL. #Classe: BM@@182@185@0@0@177@1@Creditos@Creditos@181@200@0@1210|@20@2@1@1210|@0@508@669
+31@19@122@Thunder Blade@170@20@Item +15 FULL. #Classe: DM@@182@185@0@0@177@1@Creditos@Creditos@181@200@0@1220|@18@2@1@1220|@0@508@669
+31@20@123@Dark Breaker@170@15@Item +15 FULL. #Classe: BM@@182@185@0@0@177@1@Creditos@Creditos@181@200@0@1230|@17@2@1@1230|@0@508@669
+31@21@124@Sword of Destruction@170@15@Item +15 FULL. #Classe: BM / DM@@182@185@0@0@177@1@Creditos@Creditos@181@200@0@1240|@16@2@1@1240|@0@508@669
+31@22@125@Giant Sword@170@15@Item +15 FULL. #Classe: BM / DM@@182@185@0@0@177@1@Creditos@Creditos@181@200@0@1250|@15@2@1@1250|@0@508@669
+31@23@126@Lighting Sword@170@15@Item +15 FULL. #Classe: DM / BM@@182@185@0@0@177@1@Creditos@Creditos@181@200@0@1260|@14@2@1@1260|@0@508@669
+31@24@127@Double Blade@170@15@Item +15 FULL.   #Classe: BM / DM / ELF@@182@185@0@0@177@1@Creditos@Creditos@181@200@0@1270|@13@2@1@1270|@0@508@669
+31@25@128@Heliacal Sword@170@15@Item +15 FULL. #Classe: BM / DM@@182@185@0@0@177@1@Creditos@Creditos@181@200@0@1280|@12@2@1@1280|@0@508@669
+31@26@129@Legendary Sword@170@10@Item +15 FULL. #Classe: BM / DM@@182@185@0@0@177@1@Creditos@Creditos@181@200@0@1290|@11@2@1@1290|@0@508@669
+31@27@130@Light Saber@170@10@Item +15 FULL.  #Classe: BM / DM / ELF@@182@185@0@0@177@1@Creditos@Creditos@181@200@0@1300|@10@2@1@1300|@0@508@669
+31@28@131@Sword of Salamander@170@10@Item +15 FULL. #Classe: BM / DM@@182@185@0@0@177@1@Creditos@Creditos@181@200@0@1310|@9@2@1@1310|@0@508@669
+31@29@132@Serpent Sword@170@10@Item +15 FULL. #Classe: BM / DM / LE@@182@185@0@0@177@1@Creditos@Creditos@181@200@0@1320|@8@2@1@1320|@0@508@669
+31@30@133@Falchion@170@10@Item +15 FULL. #Classe: BM / DM / LE@@182@185@0@0@177@1@Creditos@Creditos@181@200@0@1330|@7@2@1@1330|@0@508@669
+31@31@134@Gladius@170@10@Item +15 FULL.  #Classe: BM / DM / LE / ELF@@182@185@0@0@177@1@Creditos@Creditos@181@200@0@1340|@6@2@1@1340|@0@508@669
+31@32@135@Blade@170@10@Item +15 FULL.  #Classe: GM / BM / DM / LE / ELF@@182@185@0@0@177@1@Creditos@Creditos@181@200@0@1350|@5@2@1@1350|@0@508@669
+31@33@136@Sword of Assassin@170@10@Item +15 FULL. #Classe: BM / DM / LE@@182@185@0@0@177@1@Creditos@Creditos@181@200@0@1360|@4@2@1@1360|@0@508@669
+31@34@137@Katana@170@10@Item +15 FULL. #Classe: BM / DM / LE@@182@185@0@0@177@1@Creditos@Creditos@181@200@0@1370|@3@2@1@1370|@0@508@669
+31@35@138@Rapier@170@7@Item +15 FULL.  #Classe: BM / DM / LE / ELF@@182@185@0@0@177@1@Creditos@Creditos@181@200@0@1380|@2@2@1@1380|@0@508@669
+31@36@139@Short Sword@170@7@Item +15 FULL. #Classe: Todas@@182@185@0@0@177@1@Creditos@Creditos@181@200@0@1390|@1@2@1@1390|@0@508@669
+31@37@140@Kris@170@7@Item +15 FULL.  #Classe: Todas@@182@185@0@0@177@1@Creditos@Creditos@181@200@0@1400|@0@2@1@1400|@0@508@669
+31@38@607@Prickle Glove@170@30@Item +15 FULL.   #Classe: FM #Com 3 Sockets@@182@185@0@0@177@1@Creditos@Creditos@181@200@0@6070|@38@2@1@6070|@0@508@669
+31@39@624@Bloodangel Sword@170@60@Item +15 FULL.  #Classe: BM #Com 5 Sockets@@182@185@0@0@177@1@Creditos@Creditos@181@200@0@6240|@42@2@1@6240|@0@508@669
+31@40@625@Bloodangel Magic Sword@170@50@Item +15 FULL.  #Classe: DM #Com 5 Sockets@@182@185@0@0@177@1@Creditos@Creditos@181@200@0@6250|@44@2@1@6250|@0@508@669
+31@41@626@Bloodangel Claw@170@50@Item +15 FULL.   #Classe: FM #Com 5 Sockets@@182@185@0@0@177@1@Creditos@Creditos@181@200@0@6260|@46@2@1@6260|@0@508@669
+31@42@627@Blessed Divine S. of Archangel@170@50@Item +15 FULL.   #Classe: DM, BM #Com 5 Sockets@@182@185@0@0@177@1@Creditos@Creditos@181@200@0@6270|@51@2@1@6270|@0@508@669
+32@1@141@Horn of Steal@170@25@Item +15 FULL. #Classe: BM@@182@185@0@0@177@1@Creditos@Creditos@181@200@0@1410|@1044@2@1@1410|@0@508@669
+32@2@142@Thunderbolt@170@25@Item +15 FULL. #Classe: LE@@182@185@0@0@177@1@Creditos@Creditos@181@200@0@1420|@1043@2@1@1420|@0@508@669
+32@3@143@Striker Scepter@170@20@Item +15 FULL. #Classe: LE@@182@185@0@0@177@1@Creditos@Creditos@181@200@0@1430|@1042@2@1@1430|@0@508@669
+32@4@144@Absolute Scepter@170@25@Item +15 FULL.  #Classe: LE #Com 4 Sockets.@@182@185@0@0@177@1@Creditos@Creditos@181@200@0@1440|@1041@2@1@1440|@0@508@669
+32@5@145@Shining Scepter@170@15@Item +15 FULL. #Classe: LE@@182@185@0@0@177@1@Creditos@Creditos@181@200@0@1450|@1039@2@1@1450|@0@508@669
+32@6@146@Soleil Sceptor@170@25@Item +15 FULL. #Classe: LE@@182@185@0@0@177@1@Creditos@Creditos@181@200@0@1460|@1038@2@1@1460|@0@508@669
+32@7@147@Great Lord Scepter@170@15@Item +15 FULL. #Classe: LE@@182@185@0@0@177@1@Creditos@Creditos@181@200@0@1470|@1036@2@1@1470|@0@508@669
+32@8@148@Lord Scepter@170@10@Item +15 FULL. #Classe: LE@@182@185@0@0@177@1@Creditos@Creditos@181@200@0@1480|@1035@2@1@1480|@0@508@669
+32@9@149@Great Scepter@170@10@Item +15 FULL. #Classe: LE@@182@185@0@0@177@1@Creditos@Creditos@181@200@0@1490|@1034@2@1@1490|@0@508@669
+32@10@150@Master Scepter@170@10@Item +15 FULL. #Classe: LE@@182@185@0@0@177@1@Creditos@Creditos@181@200@0@1500|@1033@2@1@1500|@0@508@669
+32@11@151@Battle Scepter@170@10@Item +15 FULL. #Classe: LE@@182@185@0@0@177@1@Creditos@Creditos@181@200@0@1510|@1032@2@1@1510|@0@508@669
+32@12@152@Elemental Mace@170@5@Item +15 FULL. #Classe: FE@@182@185@0@0@177@1@Creditos@Creditos@181@200@0@1520|@1031@2@1@1520|@0@508@669
+32@13@153@Chaos Dragon Axe@170@10@Item +15 FULL. #Classe: BM / DM@@182@185@0@0@177@1@Creditos@Creditos@181@200@0@1530|@1030@2@1@1530|@0@508@669
+32@14@154@Crystal Sword@170@10@Item +15 FULL. #Classe: GM / BM / DM / FE@@182@185@0@0@177@1@Creditos@Creditos@181@200@0@1540|@1029@2@1@1540|@0@508@669
+32@15@155@Crystal Morning Star@170@5@Item +15 FULL. #Classe: GM / BM / DM / FE / FM@@182@185@0@0@177@1@Creditos@Creditos@181@200@0@1550|@1028@2@1@1550|@0@508@669
+32@16@156@Great Hammer@170@5@Item +15 FULL. #Classe: BM / DM / FM @@182@185@0@0@177@1@Creditos@Creditos@181@200@0@1560|@1027@2@1@1560|@0@508@669
+32@17@157@Flail@170@5@Item +15 FULL. #Classe: BM / DM / FM@@182@185@0@0@177@1@Creditos@Creditos@181@200@0@1570|@1026@2@1@1570|@0@508@669
+32@18@158@Morning Star@170@5@Item +15 FULL. #Classe: BM / DM / FM@@182@185@0@0@177@1@Creditos@Creditos@181@200@0@1580|@1025@2@1@1580|@0@508@669
+32@19@159@Mace@170@5@Item +15 FULL. #Classe: BM / DM / FM@@182@185@0@0@177@1@Creditos@Creditos@181@200@0@1590|@1024@2@1@1590|@0@508@669
+32@20@628@Bloodangel Scepter@170@50@Item +15 FULL.    #Classe: LE #Com 5 Sockets@@182@185@0@0@177@1@Creditos@Creditos@181@200@0@6280|@1046@2@1@6280|@0@508@669
+32@21@629@Blessed Divine Scepter of Arc@170@80@Item +15 FULL.    #Classe: LE #Com 5 Sockets@@182@185@0@0@177@1@Creditos@Creditos@181@200@0@6290|@1049@2@1@6290|@0@508@669
+33@1@100@Spite Staff@170@20@Item +15 FULL.  #Classe: GM / DM #Com 5 Sockets@@182@185@0@0@177@1@Creditos@Creditos@181@200@0@1000|@2597@2@1@1000|@0@508@669
+33@2@102@Miracle Staff@170@25@Item +15 FULL.  #Classe: GM / DM #Com 3 Sockets@@182@185@0@0@177@1@Creditos@Creditos@181@200@0@1020|@2595@2@1@1020|@0@508@669
+33@3@103@Raven Stick@170@25@Item +15 FULL.  #Classe: SUM #Com 3 Sockets@@182@185@0@0@177@1@Creditos@Creditos@181@200@0@1030|@2594@2@1@1030|@0@508@669
+33@4@160@Chrome Staff@170@20@Item +15 FULL. #Classe: GM / DM@@182@185@0@0@177@1@Creditos@Creditos@181@200@0@1600|@2593@2@1@1600|@0@508@669
+33@5@161@Inberial Staff@170@20@Item +15 FULL.  #Classe: GM #Com 4 Sockets@@182@185@0@0@177@1@Creditos@Creditos@181@200@0@1610|@2591@2@1@1610|@0@508@669
+33@6@162@Deadly Staff@170@20@Item +15 FULL. #Classe: DM@@182@185@0@0@177@1@Creditos@Creditos@181@200@0@1620|@2590@2@1@1620|@0@508@669
+33@7@163@Book of Lagle@170@20@Item +15 FULL. #Classe: SUM@@182@185@0@0@177@1@Creditos@Creditos@181@200@0@1630|@2583@2@1@1630|@0@508@669
+33@8@164@Book of Neil@170@15@Item +15 FULL. #Classe: SUM@@182@185@0@0@177@1@Creditos@Creditos@181@200@0@1640|@2582@2@1@1640|@0@508@669
+33@9@165@Book of Samut@170@10@Item +15 FULL. #Classe: SUM@@182@185@0@0@177@1@Creditos@Creditos@181@200@0@1650|@2581@2@1@1650|@0@508@669
+33@10@166@Eternal Wing Stick@170@20@Item +15 FULL. #Classe: SUM@@182@185@0@0@177@1@Creditos@Creditos@181@200@0@1660|@2580@2@1@1660|@0@508@669
+33@11@167@Storm Blitz Stick@170@15@Item +15 FULL. #Classe: SUM@@182@185@0@0@177@1@Creditos@Creditos@181@200@0@1670|@2579@2@1@1670|@0@508@669
+33@12@168@Demonic Stick@170@15@Item +15 FULL. #Classe: SUM@@182@185@0@0@177@1@Creditos@Creditos@181@200@0@1680|@2578@2@1@1680|@0@508@669
+33@13@169@Ancient Stick@170@10@Item +15 FULL. #Classe: SUM@@182@185@0@0@177@1@Creditos@Creditos@181@200@0@1690|@2577@2@1@1690|@0@508@669
+33@14@170@Red Wing Stick@170@10@Item +15 FULL. #Classe: SUM@@182@185@0@0@177@1@Creditos@Creditos@181@200@0@1700|@2576@2@1@1700|@0@508@669
+33@15@171@Violent Wind Stick@170@10@Item +15 FULL. #Classe: SUM@@182@185@0@0@177@1@Creditos@Creditos@181@200@0@1710|@2575@2@1@1710|@0@508@669
+33@16@172@Mystery Stick@170@10@Item +15 FULL. #Classe: SUM@@182@185@0@0@177@1@Creditos@Creditos@181@200@0@1720|@2574@2@1@1720|@0@508@669
+33@17@173@Platina Staff@170@15@Item +15 FULL. #Classe: GM@@182@185@0@0@177@1@Creditos@Creditos@181@200@0@1730|@2573@2@1@1730|@0@508@669
+33@18@174@Grand Viper Staff@170@20@Item +15 FULL. #Classe: GM@@182@185@0@0@177@1@Creditos@Creditos@181@200@0@1740|@2572@2@1@1740|@0@508@669
+33@19@175@Staff of Kundun@170@15@Item +15 FULL. #Classe: GM / DM@@182@185@0@0@177@1@Creditos@Creditos@181@200@0@1750|@2571@2@1@1750|@0@508@669
+33@20@176@Dragon Soul Staff@170@10@Item +15 FULL. #Classe: GM@@182@185@0@0@177@1@Creditos@Creditos@181@200@0@1760|@2569@2@1@1760|@0@508@669
+33@21@177@Staff of Destruction@170@10@Item +15 FULL. #Classe: GM / DM@@182@185@0@0@177@1@Creditos@Creditos@181@200@0@1770|@2568@2@1@1770|@0@508@669
+33@22@178@Chaos Lighting Staff@170@10@Item +15 FULL. #Classe: GM / DM @@182@185@0@0@177@1@Creditos@Creditos@181@200@0@1780|@2567@2@1@1780|@0@508@669
+33@23@179@Staff of Resurrection@170@10@Item +15 FULL. #Classe: GM / DM@@182@185@0@0@177@1@Creditos@Creditos@181@200@0@1790|@2566@2@1@1790|@0@508@669
+33@24@180@Legendary Staff@170@10@Item +15 FULL. #Classe: GM / DM@@182@185@0@0@177@1@Creditos@Creditos@181@200@0@1800|@2565@2@1@1800|@0@508@669
+33@25@181@Gorgon Staff@170@5@Item +15 FULL. #Classe: GM / DM@@182@185@0@0@177@1@Creditos@Creditos@181@200@0@1810|@2564@2@1@1810|@0@508@669
+33@26@182@Thunder Staff@170@5@Item +15 FULL. #Classe: GM / DM@@182@185@0@0@177@1@Creditos@Creditos@181@200@0@1820|@2563@2@1@1820|@0@508@669
+33@27@183@Serpent Staff@170@5@Item +15 FULL. #Classe: GM / DM@@182@185@0@0@177@1@Creditos@Creditos@181@200@0@1830|@2562@2@1@1830|@0@508@669
+33@28@184@Angelic Staff@170@5@Item +15 FULL. #Classe: GM / DM@@182@185@0@0@177@1@Creditos@Creditos@181@200@0@1840|@2561@2@1@1840|@0@508@669
+33@29@185@Skull Staff@170@5@Item +15 FULL. #Classe: GM / DM / SUM@@182@185@0@0@177@1@Creditos@Creditos@181@200@0@1850|@2560@2@1@1850|@0@508@669
+33@30@490@SoulBringuer@170@25@Item +15 FULL.  #Classe: SUM@@182@185@0@0@177@1@Creditos@Creditos@181@200@0@4900|@2592@2@1@4900|@0@508@669
+33@31@630@Bloodangel Staff@170@50@Item +15 FULL.     #Classe: GM, DM  #Com 5 Sockets@@182@185@0@0@177@1@Creditos@Creditos@181@200@0@6300|@2601@2@1@6300|@0@508@669
+33@32@631@Blessed Divine Staff of Archa@170@80@Item +15 FULL.     #Classe: GM, DM  #Com 5 Sockets@@182@185@0@0@177@1@Creditos@Creditos@181@200@0@6310|@2609@2@1@6310|@0@508@669
+33@33@632@Bloodangel Stick@170@50@Item +15 FULL.     #Classe: SUM  #Com 5 Sockets@@182@185@0@0@177@1@Creditos@Creditos@181@200@0@6320|@2603@2@1@6320|@0@508@669
+33@34@633@Blessed Divine Stick of Archa@170@60@Item +15 FULL.     #Classe: SUM  #Com 5 Sockets@@182@185@0@0@177@1@Creditos@Creditos@181@200@0@6330|@2610@2@1@6330|@0@508@669
+34@1@186@Magmus Peer@170@25@Item +15 FULL.  #Classe: BM #Com 5 Sockets@@182@185@0@0@177@1@Creditos@Creditos@181@200@0@1860|@1548@2@1@1860|@0@508@669
+34@2@187@Brova@170@20@Item +15 FULL. #Classe: BM / DM@@182@185@0@0@177@1@Creditos@Creditos@181@200@0@1870|@1547@2@1@1870|@0@508@669
+34@3@188@Dragon Spear@170@15@Item +15 FULL. #Classe: BM@@182@185@0@0@177@1@Creditos@Creditos@181@200@0@1880|@1546@2@1@1880|@0@508@669
+34@4@189@Bill of Balrog@170@15@Item +15 FULL. #Classe: BM / DM / FE@@182@185@0@0@177@1@Creditos@Creditos@181@200@0@1890|@1545@2@1@1890|@0@508@669
+34@5@190@Great Scythe@170@15@Item +15 FULL. #Classe: BM / DM / FE@@182@185@0@0@177@1@Creditos@Creditos@181@200@0@1900|@1544@2@1@1900|@0@508@669
+34@6@191@Berdysh@170@15@Item +15 FULL. #Classe: BM / DM / FE@@182@185@0@0@177@1@Creditos@Creditos@181@200@0@1910|@1543@2@1@1910|@0@508@669
+34@7@192@Halberd@170@10@Item +15 FULL. #Classe: BM / DM / FE@@182@185@0@0@177@1@Creditos@Creditos@181@200@0@1920|@1542@2@1@1920|@0@508@669
+34@8@193@Double Poleaxe@170@10@Item +15 FULL. #Classe: BM / DM / FE@@182@185@0@0@177@1@Creditos@Creditos@181@200@0@1930|@1541@2@1@1930|@0@508@669
+34@9@194@Serpent Spear@170@10@Item +15 FULL. #Classe: BM / DM / FE@@182@185@0@0@177@1@Creditos@Creditos@181@200@0@1940|@1540@2@1@1940|@0@508@669
+34@10@195@Giant Trident@170@10@Item +15 FULL. #Classe: BM / DM / FE@@182@185@0@0@177@1@Creditos@Creditos@181@200@0@1950|@1539@2@1@1950|@0@508@669
+34@11@196@Dragon Lance@170@5@Item +15 FULL. #Classe: BM / DM / FE@@182@185@0@0@177@1@Creditos@Creditos@181@200@0@1960|@1538@2@1@1960|@0@508@669
+34@12@197@Spear@170@5@Item +15 FULL. #Classe: BM / DM / FE@@182@185@0@0@177@1@Creditos@Creditos@181@200@0@1970|@1537@2@1@1970|@0@508@669
+34@13@198@Light Spear@170@5@Item +15 FULL. #Classe: BM / DM / FE@@182@185@0@0@177@1@Creditos@Creditos@181@200@0@1980|@1536@2@1@1980|@0@508@669
+35@1@199@Crescent Axe@170@10@Item +15 FULL. #Classe: GM / BM / DM@@182@185@0@0@177@1@Creditos@Creditos@181@200@0@1990|@520@2@1@1990|@0@508@669
+35@2@200@Larkan Axe@170@10@Item +15 FULL. #Classe: BM / DM@@182@185@0@0@177@1@Creditos@Creditos@181@200@0@2000|@519@2@1@2000|@0@508@669
+35@3@201@Nikea Axe@170@10@Item +15 FULL. #Classe: BM / DM / FE@@182@185@0@0@177@1@Creditos@Creditos@181@200@0@2010|@518@2@1@2010|@0@508@669
+35@4@202@Battle Axe@170@10@Item +15 FULL. #Classe: BM / DM / FE@@182@185@0@0@177@1@Creditos@Creditos@181@200@0@2020|@517@2@1@2020|@0@508@669
+35@5@203@Elven Axe@170@5@Item +15 FULL.  #Classe: GM / DM / FE / SUM@@182@185@0@0@177@1@Creditos@Creditos@181@200@0@2030|@516@2@1@2030|@0@508@669
+35@6@204@Tomahawk@170@5@Item +15 FULL. #Classe: BM / DM / LE / FM@@182@185@0@0@177@1@Creditos@Creditos@181@200@0@2040|@515@2@1@2040|@0@508@669
+35@7@205@Double Axe@170@5@Item +15 FULL. #Classe: BM / DM / FE@@182@185@0@0@177@1@Creditos@Creditos@181@200@0@2050|@514@2@1@2050|@0@508@669
+35@8@206@Hand Axe@170@5@Item +15 FULL. #Classe: TODAS@@182@185@0@0@177@1@Creditos@Creditos@181@200@0@2060|@513@2@1@2060|@0@508@669
+36@1@208@Devil Crossbow@170@25@Item +15 FULL.   #Classe: ELF #Com 5 Sockets@@182@185@0@0@177@1@Creditos@Creditos@181@200@0@2080|@2074@2@1@2080|@0@508@669
+36@2@209@Angelic Bow@170@25@Item +15 FULL.    #Classe: ELF  #Com 5 Sockets@@182@185@0@0@177@1@Creditos@Creditos@181@200@0@2090|@2073@2@1@2090|@0@508@669
+36@3@210@Aileen Bowr@170@20@Item +15 FULL.    #Classe: ELF @@182@185@0@0@177@1@Creditos@Creditos@181@200@0@2100|@2072@2@1@2100|@0@508@669
+36@4@211@Dark Stinger@170@20@Item +15 FULL.   #Classe: ELF #Com 5 Sockets@@182@185@0@0@177@1@Creditos@Creditos@181@200@0@2110|@2071@2@1@2110|@0@508@669
+36@5@212@Albatross Bow@170@15@Item +15 FULL.  #Classe: ELF@@182@185@0@0@177@1@Creditos@Creditos@181@200@0@2120|@2070@2@1@2120|@0@508@669
+36@6@213@Sylph Wind Bow@170@15@Item +15 FULL.  #Classe: ELF@@182@185@0@0@177@1@Creditos@Creditos@181@200@0@2130|@2069@2@1@2130|@0@508@669
+36@7@214@Arrow Viper Bow@170@15@Item +15 FULL.  #Classe: ELF@@182@185@0@0@177@1@Creditos@Creditos@181@200@0@2140|@2068@2@1@2140|@0@508@669
+36@8@215@Great Reign Crossbow@170@15@Item +15 FULL.  #Classe: ELF@@182@185@0@0@177@1@Creditos@Creditos@181@200@0@2150|@2067@2@1@2150|@0@508@669
+36@9@216@Celestial Bow@170@15@Item +15 FULL.  #Classe: ELF@@182@185@0@0@177@1@Creditos@Creditos@181@200@0@2160|@2065@2@1@2160|@0@508@669
+36@10@217@Saint Crossbow@170@15@Item +15 FULL.  #Classe: ELF@@182@185@0@0@177@1@Creditos@Creditos@181@200@0@2170|@2064@2@1@2170|@0@508@669
+36@11@218@Aquagold Crossbow@170@10@Item +15 FULL.  #Classe: ELF@@182@185@0@0@177@1@Creditos@Creditos@181@200@0@2180|@2062@2@1@2180|@0@508@669
+36@12@219@Bluewing Crossbow@170@10@Item +15 FULL.  #Classe: ELF@@182@185@0@0@177@1@Creditos@Creditos@181@200@0@2190|@2061@2@1@2190|@0@508@669
+36@13@220@Serpent Crossbow@170@10@Item +15 FULL.  #Classe: ELF@@182@185@0@0@177@1@Creditos@Creditos@181@200@0@2200|@2060@2@1@2200|@0@508@669
+36@14@221@Light Crossbow@170@5@Item +15 FULL.  #Classe: ELF@@182@185@0@0@177@1@Creditos@Creditos@181@200@0@2210|@2059@2@1@2210|@0@508@669
+36@15@222@Arquebus@170@5@Item +15 FULL.  #Classe: ELF@@182@185@0@0@177@1@Creditos@Creditos@181@200@0@2220|@2058@2@1@2220|@0@508@669
+36@16@223@Golden Crossbow@170@5@Item +15 FULL.  #Classe: ELF@@182@185@0@0@177@1@Creditos@Creditos@181@200@0@2230|@2057@2@1@2230|@0@508@669
+36@17@224@Crossbow@170@5@Item +15 FULL.  #Classe: ELF@@182@185@0@0@177@1@Creditos@Creditos@181@200@0@2240|@2056@2@1@2240|@0@508@669
+36@18@225@Chaos Nature Bow@170@15@Item +15 FULL.  #Classe: ELF@@182@185@0@0@177@1@Creditos@Creditos@181@200@0@2250|@2054@2@1@2250|@0@508@669
+36@19@226@Silver Bow@170@10@Item +15 FULL. #Classe: FE@@182@185@0@0@177@1@Creditos@Creditos@181@200@0@2260|@2053@2@1@2260|@0@508@669
+36@20@227@Tiger Bow@170@10@Item +15 FULL. #Classe: FE@@182@185@0@0@177@1@Creditos@Creditos@181@200@0@2270|@2052@2@1@2270|@0@508@669
+36@21@228@Battle Bow@170@10@Item +15 FULL. #Classe: FE@@182@185@0@0@177@1@Creditos@Creditos@181@200@0@2280|@2051@2@1@2280|@0@508@669
+36@22@229@Elven Bow@170@5@Item +15 FULL. #Classe: FE@@182@185@0@0@177@1@Creditos@Creditos@181@200@0@2290|@2050@2@1@2290|@0@508@669
+36@23@230@Short Bow@170@5@Item +15 FULL. #Classe: FE@@182@185@0@0@177@1@Creditos@Creditos@181@200@0@2300|@2048@2@1@2300|@0@508@669
+41@1@207@SET Stormwing@170@35@Item +15 FULL.   #Classe: BM #Com 3 Sockets@@182@185@0@0@177@1@Creditos@Creditos@181@200@0@10016|10015|10017|10018|10019|@4170@2@1@@0@508@669
+41@2@232@SET Phoenix Soul@170@35@Item +15 FULL.   #Classe: FM #Com 3 Sockets@@182@185@0@0@177@1@Creditos@Creditos@181@200@0@10020|10021|10022|10023|@4169@2@1@@0@508@669
+41@3@233@SET Storm Jahad@170@30@Item +15 FULL.    #Classe: FM #Com 3 Sockets@@182@185@0@0@177@1@Creditos@Creditos@181@200@0@10024|10025|10026|10027|@4156@2@1@@0@508@669
+41@4@234@SET Sacred Fire@170@25@Item +15 FULL.     #Classe: FM @@182@185@0@0@177@1@Creditos@Creditos@181@200@0@10028|10029|10030|10031|@4155@2@1@@0@508@669
+41@5@235@SET Ambition@170@35@Item +15 FULL.    #Classe: LE@@182@185@0@0@177@1@Creditos@Creditos@181@200@0@10032|10033|10034|10035|10036|@4154@2@1@@0@508@669
+41@6@240@SET Lazy Wind@170@30@Item +15 FULL.     #Classe: BM #Com 4 Sockets@@182@185@0@0@177@1@Creditos@Creditos@181@200@0@10058|10057|10059|10060|10061|@4150@2@1@@0@508@669
+41@7@244@SET Royal@170@30@Item +15 FULL.     #Classe: LE #Com 4 Sockets@@182@185@0@0@177@1@Creditos@Creditos@181@200@0@10078|10077|10079|10080|10081|@4147@2@1@@0@508@669
+41@8@248@SET Titan@170@30@Item +15 FULL.       #Classe: BM   #Com 4 Sockets@@182@185@0@0@177@1@Creditos@Creditos@181@200@0@10096|10095|10097|10098|10099|@4141@2@1@@0@508@669
+41@9@249@SET Brave@170@30@Item +15 FULL.     #Classe: BM #Com 4 Sockets@@182@185@0@0@177@1@Creditos@Creditos@181@200@0@10091|10090|10094|10092|10093|@4142@2@1@@0@508@669
+41@10@255@SET Glorious@170@25@Item +15 FULL.    #Classe: LE@@182@185@0@0@177@1@Creditos@Creditos@181@200@0@10131|10130|10132|10133|10134|@4134@2@1@@0@508@669
+41@11@259@SET Ashcrow@170@25@Item +15 FULL.    #Classe: BM@@182@185@0@0@177@1@Creditos@Creditos@181@200@0@10150|10149|10151|10152|10153|@4130@2@1@@0@508@669
+41@12@260@SET Sunlight@170@30@Item +15 FULL.    #Classe: LE@@182@185@0@0@177@1@Creditos@Creditos@181@200@0@10155|10154|10156|10157|10158|@4129@2@1@@0@508@669
+41@13@264@SET Dragon Knight@170@35@Item +15 FULL.    #Classe: BM@@182@185@0@0@177@1@Creditos@Creditos@181@200@0@10174|10173|10175|10176|10177|@4125@2@1@@0@508@669
+41@14@265@SET Dark Master@170@25@Item +15 FULL.    #Classe: LE@@182@185@0@0@177@1@Creditos@Creditos@181@200@0@10179|10178|10180|10181|10182|@4124@2@1@@0@508@669
+41@15@266@SET Dark Steel@170@20@Item +15 FULL.    #Classe: LE@@182@185@0@0@177@1@Creditos@Creditos@181@200@0@10184|10183|10185|10186|10187|@4123@2@1@@0@508@669
+41@16@267@SET Adamantine@170@15@Item +15 FULL.    #Classe: LE@@182@185@0@0@177@1@Creditos@Creditos@181@200@0@10189|10188|10190|10191|10192|@4122@2@1@@0@508@669
+41@17@268@SET Light Plate@170@10@Item +15 FULL.     #Classe: LE@@182@185@0@0@177@1@Creditos@Creditos@181@200@0@10194|10193|10195|10196|10197|@4121@2@1@@0@508@669
+41@18@273@SET Great Dragon@170@20@Item +15 FULL.    #Classe: BM@@182@185@0@0@177@1@Creditos@Creditos@181@200@0@10217|10216|10218|10219|10220|@4117@2@1@@0@508@669
+41@19@282@SET Plate@170@5@Item +15 FULL.    #Classe: BM / DM / FM@@182@185@0@0@177@1@Creditos@Creditos@181@200@0@10261|10260|10262|10263|10264|@4105@2@1@@0@508@669
+41@20@283@SET Dark Phoenix@170@15@Item +15 FULL.    #Classe: BM@@182@185@0@0@177@1@Creditos@Creditos@181@200@0@10266|10265|10267|10268|10269|@4113@2@1@@0@508@669
+41@21@284@SET Black Dragon@170@10@Item +15 FULL.    #Classe: BM@@182@185@0@0@177@1@Creditos@Creditos@181@200@0@10271|10270|10272|10273|10274|@4112@2@1@@0@508@669
+41@22@285@SET Brass@170@5@Item +15 FULL.     #Classe: BM / DM / FM@@182@185@0@0@177@1@Creditos@Creditos@181@200@0@10276|10275|10277|10278|10279|@4104@2@1@@0@508@669
+41@23@287@SET Scale@170@5@Item +15 FULL.     #Classe:BM / DM / FM / LE  #Incluso no pacote:   #* Scale Helm   #* Scale Armor   #* Scale Pants   #* Scale Gloves   #* Scale Boots@@182@185@0@0@177@1@Creditos@Creditos@181@200@0@10286|10285|10287|10288|10289|@4102@2@1@@0@508@669
+41@24@288@SET Leather@170@5@Item +15 FULL.    #Classe:BM / DM / FM / LE #Incluso no pacote:  #* Leather Helm  #* Leather Armor  #* Leather Pants  #* Leather Gloves   #* Leather Boots@@182@185@0@0@177@1@Creditos@Creditos@181@200@0@10291|10290|10292|10293|10294|@4101@2@1@@0@508@669
+41@25@292@SET Dragon@170@10@Item +15 FULL.    #Classe:BM / DM #Incluso no pacote:  #* Dragon Helm  #* Dragon Armor  #* Dragon Pants  #* Dragon Gloves  #* Dragon Boots@@182@185@0@0@177@1@Creditos@Creditos@181@200@0@10311|10310|10312|10313|10314|@4097@2@1@@0@508@669
+41@26@293@SET Bronze@170@5@Item +15 FULL.    #Classe:BM / DM / LE #Incluso no pacote:  #* Bronze Helm  #* Bronze Armor  #* Bronze Pants  #* Bronze Gloves  #* Bronze Boots@@182@185@0@0@177@1@Creditos@Creditos@181@200@0@10316|10315|10317|10318|10319|@4096@2@1@@0@508@669
+41@27@491@SET Bloody Dragon@170@35@Item +15 FULL.    #Classe: FM #Incluso no pacote:  #* Bloody Dragon Armor #* Bloody Dragon Helm #* Bloody Dragon Pants #* Bloody Dragon Boots@@182@185@0@0@177@1@Creditos@Creditos@181@200@0@10320|10321|10322|10323|@4173@2@1@@0@508@669
+41@28@588@SET Piercing Groove@170@30@Itens +15 FULL #Classe: FM #Incluso no pacote: #* Piercing Groove Armor #* Piercing Groove Helm #* Piercing Groove Pants #* Piercing Groove Boots@@182@185@0@0@177@1@Creditos@Creditos@181@200@0@10324|10325|10326|10327|@4157@2@1@@0@508@669
+41@29@636@SET KingDra@170@50@Itens +15 FULL.  #Classe: BM #Com 4 Sockets@@182@185@0@0@177@1@Creditos@Creditos@181@200@0@10338|10339|10340|10341|10342|@4203@2@1@@0@508@669
+41@30@637@SET Orens@170@50@Itens +15 FULL.  #Classe: FM #Com 4 Sockets@@182@185@0@0@177@1@Creditos@Creditos@181@200@0@10343|10344|10345|10346|@4204@2@1@@0@508@669
+41@31@639@SET Zaphiro@170@50@Itens +15 FULL.  #Classe: BM  #Com 4 Sockets@@182@185@0@0@177@1@Creditos@Creditos@181@200@0@10352|10353|10354|10355|10356|@4206@2@1@@0@508@669
+41@32@644@SET Red Baron@170@50@Itens +15 FULL.  #Classe: BM, FM #Com 4 Sockets@@182@185@0@0@177@1@Creditos@Creditos@181@200@0@10377|10378|10379|10380|10381|@4211@2@1@@0@508@669
+41@33@645@SET Bloodangel Knight@170@100@Itens +15 FULL.    #Classe: BM   #Com 5 Sockets@@182@185@0@0@177@1@Creditos@Creditos@181@200@0@10382|10383|10384|10385|10386|@4194@2@1@@0@508@669
+41@34@649@SET Bloodangel Lord@170@100@Itens +15 FULL.   #Classe: LE  #Com 5 Sockets@@182@185@0@0@177@1@Creditos@Creditos@181@200@0@10402|10403|10404|10405|10406|@4199@2@1@@0@508@669
+41@35@651@SET Bloodangel Fighter@170@100@Itens +15 FULL.  #Classe: FM #Com 5 Sockets@@182@185@0@0@177@1@Creditos@Creditos@181@200@0@10411|10412|10413|10414|@4200@2@1@@0@508@669
+41@36@652@SET Darkangel Knight@170@110@Itens +15 FULL.  #Classe: BM #Com 5 Sockets@@182@185@0@0@177@1@Creditos@Creditos@181@200@0@10415|10416|10417|10418|10419|@4234@2@1@@0@508@669
+41@37@656@Darkangel Lord Armor@170@110@Itens +15 FULL.  #Classe: LE #Com 5 Sockets@@182@185@0@0@177@1@Creditos@Creditos@181@200@0@10435|10436|10437|10438|10439|@4239@2@1@@0@508@669
+41@38@658@SET Darkangel Fighter@170@110@Itens +15 FULL.  #Classe: FM #Com 5 Sockets@@182@185@0@0@177@1@Creditos@Creditos@181@200@0@10444|10445|10446|10447|@4240@2@1@@0@508@669
+42@1@231@SET Magic Knight@170@35@Item +15 FULL.     #Classe: DM  #Com 3 Sockets@@182@185@0@0@177@1@Creditos@Creditos@181@200@0@10005|10007|10008|10009|@4172@2@1@@0@508@669
+42@2@237@SET Hell Night@170@35@Item +15 FULL.     #Classe: DM  #Com 3 Sockets #Incluso no pacote:   #* Hell Night Armor    #* Hell Night Pants    #* Hell Night Gloves    #* Hell Night Boots@@182@185@0@0@177@1@Creditos@Creditos@181@200@0@10037|10038|10039|10040|@4153@2@1@@0@508@669
+42@3@238@SET Dark Devil@170@35@Item +15 FULL.     #Classe: GM #Com 3 Sockets #Incluso no pacote:   #* Dark Devil Helm   #* Dark Devil Armor   #* Dark Devil Pants   #* Dark Devil Gloves   #* Dark Devil Boots@@182@185@0@0@177@1@Creditos@Creditos@181@200@0@10046|10047|10048|10050|10051|@4151@2@1@@0@508@669
+42@4@239@SET Hades@170@30@Item +15 FULL.     #Classe: GM #Com 4 Sockets #Incluso no pacote:   #* Hades Helm   #* Hades Armor   #* Hades Pants   #* Hades Gloves   #* Hades Boots@@182@185@0@0@177@1@Creditos@Creditos@181@200@0@10053|10052|10054|10055|10056|@4148@2@1@@0@508@669
+42@5@241@SET Phantom@170@35@Item +15 FULL.     #Classe: DM  #Com 4 Sockets #Incluso no pacote:   #* Phantom  Armor   #* Phantom  Pants   #* Phantom  Gloves   #* Phantom Boots@@182@185@0@0@177@1@Creditos@Creditos@181@200@0@10082|10083|10084|10085|@4143@2@1@@0@508@669
+42@6@246@SET Destruction@170@30@Item +15 FULL.     #Classe: DM  #Com 4 Sockets #Incluso no pacote:   #* Destroy Armor   #* Destroy Pants   #* Destroy Gloves   #* Destroy Boots@@182@185@0@0@177@1@Creditos@Creditos@181@200@0@10086|10087|10088|10089|@4144@2@1@@0@508@669
+42@7@256@SET Valiant@170@25@Item +15 FULL.    #Classe: DM #Incluso no pacote:  #* Valiant Armor  #* Valiant Pants  #* Valiant Gloves  #* Valiant Boots@@182@185@0@0@177@1@Creditos@Creditos@181@200@0@10135|10136|10137|10138|@4133@2@1@@0@508@669
+42@8@258@SET Eclipse@170@25@Item +15 FULL.    #Classe: GM #Incluso no pacote:   #* Eclipse Helm  #* Eclipse Armor  #* Eclipse Pants  #* Eclipse Gloves  #* Eclipse Boots@@182@185@0@0@177@1@Creditos@Creditos@181@200@0@10145|10144|10146|10147|10148|@4131@2@1@@0@508@669
+42@9@261@SET Volcano@170@35@Item +15 FULL.    #Classe: DM #Incluso no pacote:  #* Volcano Armor  #* Volcano Pants  #* Volcano Gloves  #* Volcano Boots@@182@185@0@0@177@1@Creditos@Creditos@181@200@0@10159|10160|10161|10162|@4128@2@1@@0@508@669
+42@10@263@SET Venom Mist@170@35@Item +15 FULL.    #Classe: GM #Incluso no pacote:   #* Venom Mist Helm  #* Venom Mist Armor  #* Venom Mist Pants  #* Venom Mist Gloves  #* Venom Mist Boots@@182@185@0@0@177@1@Creditos@Creditos@181@200@0@10169|10168|10170|10171|10172|@4126@2@1@@0@508@669
+42@11@270@SET Hurricane@170@20@Item +15 FULL.    #Classe: DM #Incluso no pacote:  #* Hurricane Armor  #* Hurricane Pants  #* Hurricane Gloves  #* Hurricane Boots@@182@185@0@0@177@1@Creditos@Creditos@181@200@0@10203|10204|10205|10206|@4119@2@1@@0@508@669
+42@12@271@SET Dark Soul@170@15@Item +15 FULL.    #Classe: GM #Incluso no pacote:  #* Dark Soul Helm  #* Dark Soul Armor  #* Dark Soul Pants  #* Dark Soul Gloves  #* Dark Soul Boots@@182@185@0@0@177@1@Creditos@Creditos@181@200@0@10208|10207|10209|10210|10211|@4118@2@1@@0@508@669
+42@13@272@SET Thunder Hawk@170@15@Item +15 FULL.    #Classe: DM #Incluso no pacote:  #* Thunder Hawk Armor  #* Thunder Hawk Pants  #* Thunder Hawk Gloves  #* Thunder Hawk Boots@@182@185@0@0@177@1@Creditos@Creditos@181@200@0@10212|10213|10214|10215|@4116@2@1@@0@508@669
+42@14@275@SET Grand Soul@170@10@Item +15 FULL.    #Classe: GM #Incluso no pacote:  #* Grand Soul Helm  #* Grand Soul Armor  #* Grand Soul Pants  #* Grand Soul Gloves  #* Grand Soul Boots@@182@185@0@0@177@1@Creditos@Creditos@181@200@0@10227|10226|10228|10229|10230|@4114@2@1@@0@508@669
+42@15@276@SET Atlans@170@10@Item +15 FULL.      #Classe: DM   #Incluso no pacote:    #* Atlans Armor    #* Atlans Pants    #* Atlans Gloves    #* Atlans Boots@@182@185@0@0@177@1@Creditos@Creditos@181@200@0@10231|10232|10233|10234|@4111@2@1@@0@508@669
+42@16@286@SET Sphinx@170@5@Item +15 FULL.    #Classe: GM / DM #Incluso no pacote:  #* Sphinx Mask  #* Sphinx Armor  #* Sphinx Pants  #* Sphinx Gloves  #* Sphinx Boots@@182@185@0@0@177@1@Creditos@Creditos@181@200@0@10281|10280|10282|10283|10284|@4103@2@1@@0@508@669
+42@17@289@SET Bone@170@5@Item +15 FULL.    #Classe: GM / DM #Incluso no pacote:  #* Bone Helm  #* Bone Armor  #* Bone Pants  #* Bone Gloves  #* Bone Boots@@182@185@0@0@177@1@Creditos@Creditos@181@200@0@10296|10295|10297|10298|10299|@4100@2@1@@0@508@669
+42@18@290@SET Legendary@170@5@Item +15 FULL.    #Classe: GM/ DM #Incluso no pacote:  #* Legendary Helm  #* Legendary ArmoR  #* Legendary Pants  #* Legendary Gloves  #* Legendary Boots@@182@185@0@0@177@1@Creditos@Creditos@181@200@0@10301|10300|10302|10303|10304|@4099@2@1@@0@508@669
+42@19@291@SET Pad@170@5@Item +15 FULL.    #Classe: GM / DM #Incluso no pacote:  #* Pad Helm  #* Pad Armor  #* Pad Pants  #* Pad Gloves  #* Pad Boots@@182@185@0@0@177@1@Creditos@Creditos@181@200@0@10306|10305|10307|10308|10309|@4098@2@1@@0@508@669
+42@20@635@SET Etchmus Blood@170@50@Itens +15 FULL.  #Classe: GM, LE #Com 4 Sockets@@182@185@0@0@177@1@Creditos@Creditos@181@200@0@10333|10334|10335|10336|10337|@4202@2@1@@0@508@669
+42@21@641@SET Future@170@50@Itens +15 FULL.  #Classe: GM, LE #Com 4 Sockets@@182@185@0@0@177@1@Creditos@Creditos@181@200@0@10362|10363|10364|10365|10366|@4208@2@1@@0@508@669
+42@22@642@SET God of Nature@170@50@Itens +15 FULL.  #Classe: GM, DM #Com 4 Sockets@@182@185@0@0@177@1@Creditos@Creditos@181@200@0@10367|10368|10369|10370|10371|@4209@2@1@@0@508@669
+42@23@646@SET Bloodangel Wizard@170@100@Itens +15 FULL.   #Classe: GM  #Com 5 Sockets@@182@185@0@0@177@1@Creditos@Creditos@181@200@0@10387|10388|10389|10390|10391|@4195@2@1@@0@508@669
+42@24@650@SET Bloodangel Magic@170@100@Itens +15 FULL.  #Classe: DM #Com 5 Sockets@@182@185@0@0@177@1@Creditos@Creditos@181@200@0@10407|10408|10409|10410|@4198@2@1@@0@508@669
+42@25@653@SET Darkangel Wizard@170@110@Itens +15 FULL.  #Classe: GM #Com 5 Sockets@@182@185@0@0@177@1@Creditos@Creditos@181@200@0@10420|10421|10422|10423|10424|@4235@2@1@@0@508@669
+42@26@657@SET Darkangel Magic@170@110@Itens +15 FULL.  #Classe: DM #Com 5 Sockets@@182@185@0@0@177@1@Creditos@Creditos@181@200@0@10440|10441|10442|10443|@4238@2@1@@0@508@669
+43@1@101@SET Light Lord@170@35@Item +15 FULL.     #Classe: ELF  #Com 3 Sockets #Incluso no pacote:   #* Light Lord Helmet   #* Light Lord Armor   #* Light Lord Pants    #* Light Lord Gloves   #* Light Lord Boots@@182@185@0@0@177@1@Creditos@Creditos@181@200@0@10010|10011|10012|10013|10014|@4171@2@1@@0@508@669
+43@2@236@SET Sticky@170@35@Item +15 FULL.     #Classe: ELF  #Com 3 Sockets #Incluso no pacote:   #* Sticky Helm   #* Sticky Armor   #* Sticky Pants   #* Sticky Gloves   #* Sticky Boots@@182@185@0@0@177@1@Creditos@Creditos@181@200@0@10041|10042|10043|10044|10045|@4152@2@1@@0@508@669
+43@3@242@SET Divine@170@30@Item +15 FULL.     #Classe: ELF  #Com 4 Sockets #Incluso no pacote:   #* Divine Helm   #* Divine Armor    #* Divine Pants   #* Divine Gloves   #* Divine Boots@@182@185@0@0@177@1@Creditos@Creditos@181@200@0@10068|10067|10069|10070|10071|@4146@2@1@@0@508@669
+43@4@243@SET Seraphim@170@30@Item +15 FULL.      #Classe: ELF  #Com 4 Sockets #Incluso no pacote:    #* Seraphim Helm    #* Seraphim Armor    #* Seraphim Pants    #* Seraphim Gloves    #* Seraphim Boots@@182@185@0@0@177@1@Creditos@Creditos@181@200@0@10073|10072|10074|10075|10076|@4145@2@1@@0@508@669
+43@5@245@SET Succubus@170@30@Item +15 FULL.     #Classe: SUM #Com 3 Sockets #Incluso no pacote:   #* Succubus Helm    #* Succubus Armor    #* Succubus Pants    #* Succubus Gloves    #* Succubus Boots@@182@185@0@0@177@1@Creditos@Creditos@181@200@0@10063|10062|10064|10065|10066|@4149@2@1@@0@508@669
+43@6@247@SET Eternal Wing@170@30@Item +15 FULL.    #Classe: SUM #Incluso no pacote:  #* Eternal Wing Helm  #* Eternal Wing Armor  #* Eternal Wing Pants  #* Eternal Wing Gloves  #* Eternal Wing Boots@@182@185@0@0@177@1@Creditos@Creditos@181@200@0@10101|10100|10102|10103|10104|@4140@2@1@@0@508@669
+43@7@250@SET Storm Blitz@170@30@Item +15 FULL.    #Classe: SUM #Incluso no pacote:  #* Storm Blitz Helm  #* Storm Blitz Armor  #* Storm Blitz Pants  #* Storm Blitz Gloves  #* Storm Blitz Boots@@182@185@0@0@177@1@Creditos@Creditos@181@200@0@10106|10105|10107|10108|10109|@4139@2@1@@0@508@669
+43@8@251@SET Ancient@170@20@Item +15 FULL.    #Classe: SUM #Incluso no pacote:  #* Ancient Helm  #* Ancient Armor  #* Ancient Pants  #* Ancient Gloves  #* Ancient Boots@@182@185@0@0@177@1@Creditos@Creditos@181@200@0@10116|10115|10117|10118|10119|@4137@2@1@@0@508@669
+43@9@252@SET Demonic@170@25@Item +15 FULL.    #Classe: SUM #Incluso no pacote:  #* Demonic Helm  #* Demonic Armor  #* Demonic Pants  #* Demonic Gloves  #* Demonic Boots@@182@185@0@0@177@1@Creditos@Creditos@181@200@0@10111|10110|10112|10113|10114|@4138@2@1@@0@508@669
+43@10@253@SET Red Wing@170@15@Item +15 FULL.    #Classe: SUM #Incluso no pacote:  #* Red Wing Helm  #* Red Wing Armor  #* Red Wing Pants  #* Red Wing Gloves  #* Red Wing Boots@@182@185@0@0@177@1@Creditos@Creditos@181@200@0@10121|10120|10122|10123|10124|@4136@2@1@@0@508@669
+43@11@254@SET Violent Wind@170@10@Item +15 FULL.    #Classe: SUM #Incluso no pacote:   #* Violent Wind Helm  #* Violent Wind Armor  #* Violent Wind Pants  #* Violent Wind Gloves  #* Violent Wind Boots@@182@185@0@0@177@1@Creditos@Creditos@181@200@0@10126|10125|10127|10128|10129|@4135@2@1@@0@508@669
+43@12@257@SET Iris@170@25@Item +15 FULL.    #Classe: ELF #Incluso no pacote:  #* Iris Helm  #* Iris Armor  #* Iris Pants  #* Iris Gloves  #* Iris Boots@@182@185@0@0@177@1@Creditos@Creditos@181@200@0@10140|10139|10141|10142|10143|@4132@2@1@@0@508@669
+43@13@262@SET Sylphid Ray@170@35@Item +15 FULL.    #Classe: ELF #Incluso no pacote:  #* Sylphid Ray Helm  #* Sylphid Ray Armor  #* Sylphid Ray Pants  #* Sylphid Ray Gloves  #* Sylphid Ray Boots@@182@185@0@0@177@1@Creditos@Creditos@181@200@0@10164|10163|10165|10166|10167|@4127@2@1@@0@508@669
+43@14@269@SET Red Sprit@170@15@Item +15 FULL.    #Classe: ELF #Incluso no pacote:  #* Red Spirit Helm  #* Red Sprit Armor  #* Red Spirit Pants  #* Red Spirit Gloves  #* Red Spirit Boots@@182@185@0@0@177@1@Creditos@Creditos@181@200@0@10199|10198|10200|10201|10202|@4120@2@1@@0@508@669
+43@15@274@SET Holy Spirit@170@10@Item +15 FULL.    #Classe: ELF #Incluso no pacote:  #* Holy Spirit Helm  #* Holy Spirit Armor  #* Holy Spirit Pants  #* Holy Spirit Gloves  #* Holy Spirit Boots@@182@185@0@0@177@1@Creditos@Creditos@181@200@0@10222|10221|10223|10224|10225|@4115@2@1@@0@508@669
+43@16@277@SET Guardian@170@5@Item +15 FULL.    #Classe: ELF #Incluso no pacote:  #* Guardian Helm  #* Guardian Armor  #* Guardian Pants  #* Guardian Gloves  #* Guardian Boots@@182@185@0@0@177@1@Creditos@Creditos@181@200@0@10236|10235|10237|10238|10239|@4110@2@1@@0@508@669
+43@17@278@SET Spirit@170@5@Item +15 FULL.    #Classe: ELF #Incluso no pacote:  #* Spirit Helm  #* Spirit Armor  #* Spirit Pants  #* Spirit Gloves  #* Spirit Boots@@182@185@0@0@177@1@Creditos@Creditos@181@200@0@10241|10240|10242|10243|10244|@4109@2@1@@0@508@669
+43@18@279@SET Wind@170@5@Item +15 FULL.    #Classe: ELF #Incluso no pacote:  #* Wind Helm  #* Wind Armor  #* Wind Pants  #* Wind Gloves  #* Wind Boots@@182@185@0@0@177@1@Creditos@Creditos@181@200@0@10246|10245|10247|10248|10249|@4108@2@1@@0@508@669
+43@19@280@SET Silk@170@5@Item +15 FULL.    #Classe: ELF #Incluso no pacote:  #* Silk Helm  #* Silk Armor  #* Silk Pants  #* Silk Gloves  #* Silk Boots@@182@185@0@0@177@1@Creditos@Creditos@181@200@0@10251|10250|10252|10253|10254|@4107@2@1@@0@508@669
+43@20@281@SET Vine@170@5@Item +15 FULL.    #Classe: ELF #Incluso no pacote:  #* Vine Helm  #* Vine Armor  #* Vine Pants  #* Vine Gloves  #* Vine Boots@@182@185@0@0@177@1@Creditos@Creditos@181@200@0@10256|10255|10257|10258|10259|@4106@2@1@@0@508@669
+43@21@634@SET Dark SK@170@50@Itens +15 FULL.   #Classe: ELF  #Com 4 Sockets@@182@185@0@0@177@1@Creditos@Creditos@181@200@0@10328|10329|10330|10331|10332|@4201@2@1@@0@508@669
+43@22@638@SET Terra@170@50@Itens +15 FULL.  #Classe: SUM, ELF  #Com 4 Sockets@@182@185@0@0@177@1@Creditos@Creditos@181@200@0@10347|10348|10349|10350|10351|@4205@2@1@@0@508@669
+43@23@640@SET Fairy@170@50@Itens +15 FULL.  #Classe: ELF #Com 4 Sockets@@182@185@0@0@177@1@Creditos@Creditos@181@200@0@10357|10358|10359|10360|10361|@4207@2@1@@0@508@669
+43@24@643@SET Goddess Nature@170@50@Itens +15 FULL.  #Classe: ELF, SUM #Com 4 Sockets@@182@185@0@0@177@1@Creditos@Creditos@181@200@0@10372|10373|10374|10375|10376|@4210@2@1@@0@508@669
+43@25@647@SET Bloodangel Elf@170@100@Itens +15 FULL.  #Classe: ELF #Com 5 Sockets@@182@185@0@0@177@1@Creditos@Creditos@181@200@0@10392|10393|10394|10395|10396|@4196@2@1@@0@508@669
+43@26@648@SET Bloodangel Summoner@170@100@Itens +15 FULL.  #Classe: SUM #Com 5 Sockets@@182@185@0@0@177@1@Creditos@Creditos@181@200@0@10397|10398|10399|10400|10401|@4197@2@1@@0@508@669
+43@27@654@SET Darkangel Elf@170@110@Itens +15 FULL.  #Classe: ELF #Com 5 Sockets@@182@185@0@0@177@1@Creditos@Creditos@181@200@0@10425|10426|10427|10428|10429|@4236@2@1@@0@508@669
+43@28@655@SET Darkangel Summoner@170@110@Itens +15 FULL.  #Classe: SUM #Com 5 Sockets@@182@185@0@0@177@1@Creditos@Creditos@181@200@0@10430|10431|10432|10433|10434|@4237@2@1@@0@508@669
+44@1@294@Wings of Angel and Devil@170@40@Item +15 FULL. #Classe: BM / GM / DM / SUM / ELF@@182@185@0@0@177@1@Creditos@Creditos@181@200@0@2940|@6411@2@1@2940|@0@508@669
+44@2@295@Wings of Conqueror@170@40@Item +15 FULL. #Classe: BM / GM / DM / SUM / ELF@@182@185@0@0@177@1@Creditos@Creditos@181@200@0@2950|@6410@2@1@2950|@0@508@669
+44@3@296@Wing of Storm@170@35@Item +15 FULL. #Classe: BM@@182@185@0@0@177@1@Creditos@Creditos@181@200@0@2960|@6180@2@1@2960|@0@508@669
+44@4@297@Wing of Eternal@170@35@Item +15 FULL. #Classe: GM@@182@185@0@0@177@1@Creditos@Creditos@181@200@0@2970|@6181@2@1@2970|@0@508@669
+44@5@298@Wing of Illusion@170@35@Item +15 FULL. #Classe: ELF @@182@185@0@0@177@1@Creditos@Creditos@181@200@0@2980|@6182@2@1@2980|@0@508@669
+44@6@299@Wing of Ruin@170@35@Item +15 FULL. #Classe: DM@@182@185@0@0@177@1@Creditos@Creditos@181@200@0@2990|@6183@2@1@2990|@0@508@669
+44@7@300@Cape of Emperor@170@35@Item +15 FULL. #Classe: LE@@182@185@0@0@177@1@Creditos@Creditos@181@200@0@3000|@6184@2@1@3000|@0@508@669
+44@8@301@Wing of Dimension@170@35@Item +15 FULL. #Classe: SUM@@182@185@0@0@177@1@Creditos@Creditos@181@200@0@3010|@6187@2@1@3010|@0@508@669
+44@9@302@Wings of Chaos@170@30@Item +15 FULL. #Classe: BM / DM@@182@185@0@0@177@1@Creditos@Creditos@181@200@0@3020|@6407@2@1@3020|@0@508@669
+44@10@303@Wings of Magic@170@30@Item +15 FULL. #Classe: DM / SUM@@182@185@0@0@177@1@Creditos@Creditos@181@200@0@3030|@6408@2@1@3030|@0@508@669
+44@11@304@Wings of Life@170@30@Item +15 FULL. #Classe: ELF@@182@185@0@0@177@1@Creditos@Creditos@181@200@0@3040|@6409@2@1@3040|@0@508@669
+44@12@305@Cloak of Death@170@30@Item +15 FULL. #Classe: LE / FM@@182@185@0@0@177@1@Creditos@Creditos@181@200@0@3050|@6406@2@1@3050|@0@508@669
+44@13@306@Cape of Overrule@170@35@Item +15 FULL. #Classe: FM@@182@185@0@0@177@1@Creditos@Creditos@181@200@0@3060|@6194@2@1@3060|@0@508@669
+44@14@307@Cape of Fighter@170@20@Item +15 FULL. #Classe: FM@@182@185@0@0@177@1@Creditos@Creditos@181@200@0@3070|@6193@2@1@3070|@0@508@669
+44@15@308@Wings of Spirits@170@20@Item +15 FULL. #Classe: ELF@@182@185@0@0@177@1@Creditos@Creditos@181@200@0@3080|@6147@2@1@3080|@0@508@669
+44@16@309@Wings of Soul@170@20@Item +15 FULL. #Classe: GM@@182@185@0@0@177@1@Creditos@Creditos@181@200@0@3090|@6148@2@1@3090|@0@508@669
+44@17@310@Wings of Dragon@170@20@Item +15 FULL. #Classe: BM@@182@185@0@0@177@1@Creditos@Creditos@181@200@0@3100|@6149@2@1@3100|@0@508@669
+44@18@311@Wings of Darkness@170@20@Item +15 FULL. #Classe: DM@@182@185@0@0@177@1@Creditos@Creditos@181@200@0@3110|@6150@2@1@3110|@0@508@669
+44@19@312@Wind of Despair@170@20@Item +15 FULL. #Classe: SUM@@182@185@0@0@177@1@Creditos@Creditos@181@200@0@3120|@6186@2@1@3120|@0@508@669
+44@20@492@Wings of Pure Angel@170@40@Item +15 FULL.  #Classe: GM / DM@@182@185@0@0@177@1@Creditos@Creditos@181@200@0@4920|@6412@2@1@4920|@0@508@669
+44@21@493@Wings of Mega Angel@170@40@Item +15 FULL.  #Classe: GM@@182@185@0@0@177@1@Creditos@Creditos@181@200@0@4930|@6413@2@1@4930|@0@508@669
+44@22@494@Wings of Fairy Elf@170@40@Item +15 FULL.  #Classe: ELF@@182@185@0@0@177@1@Creditos@Creditos@181@200@0@4940|@6414@2@1@4940|@0@508@669
+44@23@495@Wings of Dark Satan@170@40@Item +15 FULL.  #Classe: BM@@182@185@0@0@177@1@Creditos@Creditos@181@200@0@4950|@6415@2@1@4950|@0@508@669
+44@24@496@Wings of Phoenix@170@40@Item +15 FULL.   #Classe: BM / GM@@182@185@0@0@177@1@Creditos@Creditos@181@200@0@4960|@6416@2@1@4960|@0@508@669
+44@25@497@Wings of Night@170@40@Item +15 FULL.   #Classe: SUM@@182@185@0@0@177@1@Creditos@Creditos@181@200@0@4970|@6417@2@1@4970|@0@508@669
+44@26@498@Wings of Queem@170@40@Item +15 FULL.    #Classe: ELF / SUM@@182@185@0@0@177@1@Creditos@Creditos@181@200@0@4980|@6418@2@1@4980|@0@508@669
+44@27@499@Wings of Dragon Eye@170@40@Item +15 FULL.    #Classe: FM / LE@@182@185@0@0@177@1@Creditos@Creditos@181@200@0@4990|@6419@2@1@4990|@0@508@669
+44@28@500@Wings of Dark Storm@170@40@Item +15 FULL.    #Classe: BM / DM@@182@185@0@0@177@1@Creditos@Creditos@181@200@0@5000|@6420@2@1@5000|@0@508@669
+44@29@501@Wings of Eagle@170@40@Item +15 FULL.    #Classe: GM / DM / SUM@@182@185@0@0@177@1@Creditos@Creditos@181@200@0@5010|@6421@2@1@5010|@0@508@669
+44@30@502@Wings of Pegasus@170@40@Item +15 FULL.    #Classe: ELF / SUM@@182@185@0@0@177@1@Creditos@Creditos@181@200@0@5020|@6422@2@1@5020|@0@508@669
+45@1@313@Ambition Shield@170@25@Item +15 FULL.   #Classe: LE #Com 3 Sockets@@182@185@0@0@177@1@Creditos@Creditos@181@200@0@3130|@3098@2@1@3130|@0@508@669
+45@2@314@Magic Knight Shield@170@25@Item +15 FULL.   #Classe: DM #Com 3 Sockets@@182@185@0@0@177@1@Creditos@Creditos@181@200@0@3140|@3097@2@1@3140|@0@508@669
+45@3@315@Dark Devil Shield@170@25@Item +15 FULL.   #Classe: GM #Com 3 Sockets@@182@185@0@0@177@1@Creditos@Creditos@181@200@0@3150|@3096@2@1@3150|@0@508@669
+45@4@316@Light Lord Shield@170@25@Item +15 FULL.   #Classe: ELF #Com 3 Sockets@@182@185@0@0@177@1@Creditos@Creditos@181@200@0@3160|@3095@2@1@3160|@0@508@669
+45@5@317@Lazy Wind Shield@170@25@Item +15 FULL.   #Classe: BM #Com 3 Sockets@@182@185@0@0@177@1@Creditos@Creditos@181@200@0@3170|@3094@2@1@3170|@0@508@669
+45@6@318@Cross Shield@170@20@Item +15 FULL.  #Classe: LE@@182@185@0@0@177@1@Creditos@Creditos@181@200@0@3180|@3093@2@1@3180|@0@508@669
+45@7@319@Guardian Shield@170@20@Item +15 FULL.   #Classe: SM #Com 4 Sockets@@182@185@0@0@177@1@Creditos@Creditos@181@200@0@3190|@3092@2@1@3190|@0@508@669
+45@8@320@Frost Barrier@170@20@Item +15 FULL.   #Classe: ELF #Com 4 Sockets@@182@185@0@0@177@1@Creditos@Creditos@181@200@0@3200|@3091@2@1@3200|@0@508@669
+45@9@321@Salamander Shield@170@20@Item +15 FULL.   #Classe: DM #Com 4 Sockets@@182@185@0@0@177@1@Creditos@Creditos@181@200@0@3210|@3090@2@1@3210|@0@508@669
+45@10@322@Crimson Glory@170@20@Item +15 FULL.   #Classe: BM #Com 4 Sockets@@182@185@0@0@177@1@Creditos@Creditos@181@200@0@3220|@3089@2@1@3220|@0@508@669
+45@11@323@Elemental Shield@170@15@Item +15 FULL.  #Classe: ELF@@182@185@0@0@177@1@Creditos@Creditos@181@200@0@3230|@3088@2@1@3230|@0@508@669
+45@12@324@Grand Soul Shield@170@15@Item +15 FULL.   #Classe: GM@@182@185@0@0@177@1@Creditos@Creditos@181@200@0@3240|@3087@2@1@3240|@0@508@669
+45@13@325@Legendary Shield@170@15@Item +15 FULL.  #Classe: GM / DM / ELF@@182@185@0@0@177@1@Creditos@Creditos@181@200@0@3250|@3086@2@1@3250|@0@508@669
+45@14@326@Dragon Shield@170@15@Item +15 FULL.  #Classe: BM / DM@@182@185@0@0@177@1@Creditos@Creditos@181@200@0@3260|@3085@2@1@3260|@0@508@669
+45@15@327@Bronze Shield@170@15@Item +15 FULL.  #Classe: BM / DM@@182@185@0@0@177@1@Creditos@Creditos@181@200@0@3270|@3084@2@1@3270|@0@508@669
+45@16@328@Serpent Shield@170@10@Item +15 FULL.  #Classe: BM / DM / LE / ELF@@182@185@0@0@177@1@Creditos@Creditos@181@200@0@3280|@3083@2@1@3280|@0@508@669
+45@17@329@Large Round Shield@170@10@Item +15 FULL.  #Classe: BM / DM / LE@@182@185@0@0@177@1@Creditos@Creditos@181@200@0@3290|@3082@2@1@3290|@0@508@669
+45@18@330@Plate Shield@170@10@Item +15 FULL.  #Classe: BM / DM / LE@@182@185@0@0@177@1@Creditos@Creditos@181@200@0@3300|@3081@2@1@3300|@0@508@669
+45@19@331@Tower Shield@170@10@Item +15 FULL.  #Classe: BM / DM / LE / ELF@@182@185@0@0@177@1@Creditos@Creditos@181@200@0@3310|@3080@2@1@3310|@0@508@669
+45@20@332@Spiked Shield@170@10@Item +15 FULL.  #Classe: BM / DM/ LE@@182@185@0@0@177@1@Creditos@Creditos@181@200@0@3320|@3079@2@1@3320|@0@508@669
+45@21@333@Skull Shield@170@10@Item +15 FULL.  #Classe: GM / BM / DM / LE / ELF@@182@185@0@0@177@1@Creditos@Creditos@181@200@0@3330|@3078@2@1@3330|@0@508@669
+45@22@334@Dragon Slayer Shield@170@10@Item +15 FULL.  #Classe: BM / DM / LE@@182@185@0@0@177@1@Creditos@Creditos@181@200@0@3340|@3077@2@1@3340|@0@508@669
+45@23@335@Buckler@170@5@Item +15 FULL.  #Classe: GM / BM / DM / LE@@182@185@0@0@177@1@Creditos@Creditos@181@200@0@3350|@3076@2@1@3350|@0@508@669
+45@24@336@Elven Shield@170@5@Item +15 FULL.  #Classe: ELF@@182@185@0@0@177@1@Creditos@Creditos@181@200@0@3360|@3075@2@1@3360|@0@508@669
+45@25@337@Kite Shield@170@5@Item +15 FULL.  #Classe: BM / DM / LE@@182@185@0@0@177@1@Creditos@Creditos@181@200@0@3370|@3074@2@1@3370|@0@508@669
+45@26@338@Horn Shield@170@5@Item +15 FULL.  #Classe: BM / DM / LE@@182@185@0@0@177@1@Creditos@Creditos@181@200@0@3380|@3073@2@1@3380|@0@508@669
+46@1@340@Ring of Fire@170@15@Item +15 FULL.      #Classe: Todas@@182@185@0@0@177@1@Creditos@Creditos@181@200@0@3400|@6677@2@1@3400|@0@508@669
+46@2@341@Ring of Earth@170@15@Item +15 FULL.      #Classe: Todas@@182@185@0@0@177@1@Creditos@Creditos@181@200@0@3410|@6678@2@1@3410|@0@508@669
+46@3@342@Ring of Wind@170@15@Item +15 FULL.      #Classe: Todas@@182@185@0@0@177@1@Creditos@Creditos@181@200@0@3420|@6679@2@1@3420|@0@508@669
+46@4@343@Ring of Magic@170@15@Item +15 FULL.      #Classe: Todas@@182@185@0@0@177@1@Creditos@Creditos@181@200@0@3430|@6680@2@1@3430|@0@508@669
+46@5@344@Ring of Ice@170@15@Item +15 FULL.      #Classe: Todas@@182@185@0@0@177@1@Creditos@Creditos@181@200@0@3440|@6664@2@1@3440|@0@508@669
+46@6@345@Ring of Poison@170@15@Item +15 FULL.      #Classe: Todas@@182@185@0@0@177@1@Creditos@Creditos@181@200@0@3450|@6665@2@1@3450|@0@508@669
+46@7@503@Protection Ring@170@15@Item +15 FULL.     #Classe: Todas@@182@185@0@0@177@1@Creditos@Creditos@181@200@0@5030|@6832@2@1@5030|@0@508@669
+46@8@504@Protector Protection Ring@170@15@Item +15 FULL.     #Classe: Todas@@182@185@0@0@177@1@Creditos@Creditos@181@200@0@5040|@6831@2@1@5040|@0@508@669
+46@9@505@Ring of Ultimatum@170@15@Item +15 FULL.     #Classe: Todas@@182@185@0@0@177@1@Creditos@Creditos@181@200@0@5050|@6829@2@1@5050|@0@508@669
+47@1@346@Pendant of Ice@170@15@Item +15 FULL.      #Classe: Todas@@182@185@0@0@177@1@Creditos@Creditos@181@200@0@3460|@6681@2@1@3460|@0@508@669
+47@2@347@Pendant of Wind@170@15@Item +15 FULL.      #Classe: Todas@@182@185@0@0@177@1@Creditos@Creditos@181@200@0@3470|@6682@2@1@3470|@0@508@669
+47@3@348@Pendant of Water@170@15@Item +15 FULL.      #Classe: Todas@@182@185@0@0@177@1@Creditos@Creditos@181@200@0@3480|@6683@2@1@3480|@0@508@669
+47@4@349@Pendant of Ability@170@15@Item +15 FULL.      #Classe: Todas@@182@185@0@0@177@1@Creditos@Creditos@181@200@0@3490|@6684@2@1@3490|@0@508@669
+47@5@339@Pendant of Lighting@170@15@Item +15 FULL.      #Classe: Todas@@182@185@0@0@177@1@Creditos@Creditos@181@200@0@3390|@6668@2@1@3390|@0@508@669
+47@6@350@Pendant of Fire@170@15@Item +15 FULL.      #Classe: Todas@@182@185@0@0@177@1@Creditos@Creditos@181@200@0@3500|@6669@2@1@3500|@0@508@669
+47@7@506@Necklace of Agony@170@15@Item +15 FULL.     #Classe: Todas@@182@185@0@0@177@1@Creditos@Creditos@181@200@0@5060|@6827@2@1@5060|@0@508@669
+47@8@507@Solid Symbol@170@15@Item +15 FULL.     #Classe: Todas@@182@185@0@0@177@1@Creditos@Creditos@181@200@0@5070|@6828@2@1@5070|@0@508@669
+48@1@530@Odin Wind Helm@170@10@Item +15 FULL.          #Classe: ELF@@182@185@0@0@177@1@Creditos@Creditos@181@200@0@5300|@3596@2@1@5300|@0@508@669
+48@2@531@Odin Wind Armor@170@10@Item +15 FULL.          #Classe: ELF@@182@185@0@0@177@1@Creditos@Creditos@181@200@0@5310|@4108@2@1@5310|@0@508@669
+48@3@532@Odin Wind Pants@170@10@Item +15 FULL.          #Classe: ELF@@182@185@0@0@177@1@Creditos@Creditos@181@200@0@5320|@4620@2@1@5320|@0@508@669
+48@4@533@Odin Wind Gloves@170@10@Item +15 FULL.          #Classe: ELF@@182@185@0@0@177@1@Creditos@Creditos@181@200@0@5330|@5132@2@1@5330|@0@508@669
+48@5@534@Odin Wind Boots@170@10@Item +15 FULL.          #Classe: ELF@@182@185@0@0@177@1@Creditos@Creditos@181@200@0@5340|@5644@2@1@5340|@0@508@669
+48@6@535@Gyewn Guardian Armor@170@10@Item +15 FULL.          #Classe: ELF@@182@185@0@0@177@1@Creditos@Creditos@181@200@0@5350|@4110@2@1@5350|@0@508@669
+48@7@536@Gyewn Guardian Gloves@170@10@Item +15 FULL.          #Classe: ELF@@182@185@0@0@177@1@Creditos@Creditos@181@200@0@5360|@5134@2@1@5360|@0@508@669
+48@8@537@Gyewn Guardian Boots@170@10@Item +15 FULL.          #Classe: ELF@@182@185@0@0@177@1@Creditos@Creditos@181@200@0@5370|@5646@2@1@5370|@0@508@669
+48@9@538@Gyewn Silver Bow@170@10@Item +15 FULL.          #Classe: ELF@@182@185@0@0@177@1@Creditos@Creditos@181@200@0@5380|@2053@2@1@5380|@0@508@669
+48@10@539@Gyewn Pendant of Ability@170@15@Item +15 FULL.          #Classe: ELF@@182@185@0@0@177@1@Creditos@Creditos@181@200@0@5390|@6684@2@1@5390|@0@508@669
+48@11@540@Berserker Scale Armor@170@10@Item +15 FULL.          #Classe: BM / DM / LE / FM@@182@185@0@0@177@1@Creditos@Creditos@181@200@0@5400|@4102@2@1@5400|@0@508@669
+48@12@541@Berserker Scale Helm@170@10@Item +15 FULL.          #Classe: BM / LE / FM@@182@185@0@0@177@1@Creditos@Creditos@181@200@0@5410|@3590@2@1@5410|@0@508@669
+48@13@542@Berserker Scale Pants@170@10@Item +15 FULL.           #Classe: BM / DM / LE / FM@@182@185@0@0@177@1@Creditos@Creditos@181@200@0@5420|@4614@2@1@5420|@0@508@669
+48@14@543@Berserker Scale Gloves@170@10@Item +15 FULL.          #Classe: BM / DM / LE@@182@185@0@0@177@1@Creditos@Creditos@181@200@0@5430|@5126@2@1@5430|@0@508@669
+48@15@544@Berserker Scale Boots@170@10@Item +15 FULL.          #Classe: BM / DM / LE / FM@@182@185@0@0@177@1@Creditos@Creditos@181@200@0@5440|@5638@2@1@5440|@0@508@669
+48@16@545@Vega Sacred Fire Helm@170@10@Item +15 FULL.           #Classe: FM@@182@185@0@0@177@1@Creditos@Creditos@181@200@0@5450|@3643@2@1@5450|@0@508@669
+48@17@546@Vega Sacred Fire Armor@170@10@Item +15 FULL.           #Classe: FM@@182@185@0@0@177@1@Creditos@Creditos@181@200@0@5460|@4155@2@1@5460|@0@508@669
+48@18@547@Vega Sacred Fire Pants@170@10@Item +15 FULL.           #Classe: FM@@182@185@0@0@177@1@Creditos@Creditos@181@200@0@5470|@4667@2@1@5470|@0@508@669
+48@19@548@Vega Sacred Fire Boots@170@10@Item +15 FULL.           #Classe: FM@@182@185@0@0@177@1@Creditos@Creditos@181@200@0@5480|@5691@2@1@5480|@0@508@669
+48@20@549@Chamer Sacred Glove@170@15@Item +15 FULL.            #Classe: FM@@182@185@0@0@177@1@Creditos@Creditos@181@200@0@5490|@32@2@1@5490|@0@508@669
+48@21@550@Chamer Sacred Fire Armor@170@10@Item +15 FULL.           #Classe: FM@@182@185@0@0@177@1@Creditos@Creditos@181@200@0@5500|@4155@2@1@5500|@0@508@669
+48@22@551@Chamer Sacred Fire Pants@170@10@Item +15 FULL.           #Classe: FM@@182@185@0@0@177@1@Creditos@Creditos@181@200@0@5510|@4667@2@1@5510|@0@508@669
+48@23@552@Chamer Sacred Fire Boots@170@10@Item +15 FULL.           #Classe: FM@@182@185@0@0@177@1@Creditos@Creditos@181@200@0@5520|@5691@2@1@5520|@0@508@669
+48@24@553@Bragi Dark Phoenix Helm@170@13@Item +15 FULL.             #Classe: BM@@182@185@0@0@177@1@Creditos@Creditos@181@200@0@5530|@3601@2@1@5530|@0@508@669
+48@25@554@Bragi Dark Phoenix Armor@170@13@Item +15 FULL.             #Classe: BM@@182@185@0@0@177@1@Creditos@Creditos@181@200@0@5540|@4113@2@1@5540|@0@508@669
+48@26@555@Bragi Dark Phoenix Pants@170@13@Item +15 FULL.             #Classe: BM@@182@185@0@0@177@1@Creditos@Creditos@181@200@0@5550|@4625@2@1@5550|@0@508@669
+48@27@556@Bragi Dark Breaker@170@15@Item +15 FULL.              #Classe: BM@@182@185@0@0@177@1@Creditos@Creditos@181@200@0@5560|@17@2@1@5560|@0@508@669
+48@28@557@Bragi Dark Phoenix Boots@170@13@Item +15 FULL.             #Classe: BM@@182@185@0@0@177@1@Creditos@Creditos@181@200@0@5570|@5649@2@1@5570|@0@508@669
+48@29@558@Alvis Dragon Soul Staff@170@15@Item +15 FULL.               #Classe: GM@@182@185@0@0@177@1@Creditos@Creditos@181@200@0@5580|@2569@2@1@5580|@0@508@669
+48@30@559@Alvis Grand Soul Armor@170@13@Item +15 FULL.               #Classe: GM@@182@185@0@0@177@1@Creditos@Creditos@181@200@0@5590|@4114@2@1@5590|@0@508@669
+48@31@560@Alvis Pendant of Water@170@15@Item +15 FULL.              #Classe: GM@@182@185@0@0@177@1@Creditos@Creditos@181@200@0@5600|@6683@2@1@5600|@0@508@669
+48@32@561@Alvis Grand Soul Gloves@170@13@Item +15 FULL.             #Classe: GM@@182@185@0@0@177@1@Creditos@Creditos@181@200@0@5610|@5138@2@1@5610|@0@508@669
+48@33@562@Alvis Grand Soul Boots@170@13@Item +15 FULL.             #Classe: GM@@182@185@0@0@177@1@Creditos@Creditos@181@200@0@5620|@5650@2@1@5620|@0@508@669
+48@34@563@Frigg Celestial Bow@170@20@Item +15 FULL.               #Classe: ELF@@182@185@0@0@177@1@Creditos@Creditos@181@200@0@5630|@2065@2@1@5630|@0@508@669
+48@35@564@Frigg Holy Spirit Armor@170@13@Item +15 FULL.              #Classe: ELF@@182@185@0@0@177@1@Creditos@Creditos@181@200@0@5640|@4115@2@1@5640|@0@508@669
+48@36@565@Frigg Holy Spirit Pants@170@13@Item +15 FULL.              #Classe: ELF@@182@185@0@0@177@1@Creditos@Creditos@181@200@0@5650|@4627@2@1@5650|@0@508@669
+48@37@566@Frigg Pendant of Wind@170@15@Item +15 FULL.               #Classe: ELF@@182@185@0@0@177@1@Creditos@Creditos@181@200@0@5660|@6682@2@1@5660|@0@508@669
+48@38@567@Frigg Holy Spirit Boots@170@13@Item +15 FULL.              #Classe: ELF@@182@185@0@0@177@1@Creditos@Creditos@181@200@0@5670|@5651@2@1@5670|@0@508@669
+48@39@568@Tyr Thunder Hawk Pants@170@13@Item +15 FULL.               #Classe: DM@@182@185@0@0@177@1@Creditos@Creditos@181@200@0@5680|@4628@2@1@5680|@0@508@669
+48@40@569@Tyr Thunder Hawk Gloves@170@13@Item +15 FULL.               #Classe: DM@@182@185@0@0@177@1@Creditos@Creditos@181@200@0@5690|@5140@2@1@5690|@0@508@669
+48@41@570@Tyr Thunder Hawk Boots@170@13@Item +15 FULL.               #Classe: DM@@182@185@0@0@177@1@Creditos@Creditos@181@200@0@5700|@5652@2@1@5700|@0@508@669
+48@42@571@Tyr Rune Blade@170@15@Item +15 FULL.              #Classe: DM@@182@185@0@0@177@1@Creditos@Creditos@181@200@0@5710|@31@2@1@5710|@0@508@669
+48@43@572@Tyr Pendant of Lighting@170@15@Item +15 FULL.               #Classe: Todas@@182@185@0@0@177@1@Creditos@Creditos@181@200@0@5720|@6668@2@1@5720|@0@508@669
+48@44@573@Surt Glorious Armor@170@13@Item +15 FULL.               #Classe: LE@@182@185@0@0@177@1@Creditos@Creditos@181@200@0@5730|@4134@2@1@5730|@0@508@669
+48@45@574@Surt Glorious Mask@170@13@Item +15 FULL.               #Classe: LE@@182@185@0@0@177@1@Creditos@Creditos@181@200@0@5740|@3622@2@1@5740|@0@508@669
+48@46@575@Surt Lord Scepter@170@15@Item +15 FULL.               #Classe: LE@@182@185@0@0@177@1@Creditos@Creditos@181@200@0@5750|@1035@2@1@5750|@0@508@669
+48@47@576@Surt Glorious Gloves@170@13@Item +15 FULL.               #Classe: LE@@182@185@0@0@177@1@Creditos@Creditos@181@200@0@5760|@5158@2@1@5760|@0@508@669
+48@48@577@Surt Glorious Boots@170@13@Item +15 FULL.               #Classe: LE@@182@185@0@0@177@1@Creditos@Creditos@181@200@0@5770|@5670@2@1@5770|@0@508@669
+48@49@578@Elune Demonic Armor@170@13@Item +15 FULL.                #Classe: SUM@@182@185@0@0@177@1@Creditos@Creditos@181@200@0@5780|@4138@2@1@5780|@0@508@669
+48@50@579@Elune Demonic Pants@170@13@Item +15 FULL.                #Classe: SUM@@182@185@0@0@177@1@Creditos@Creditos@181@200@0@5790|@4650@2@1@5790|@0@508@669
+48@51@580@Elune Demonic Gloves@170@13@Item +15 FULL.                #Classe: SUM@@182@185@0@0@177@1@Creditos@Creditos@181@200@0@5800|@5162@2@1@5800|@0@508@669
+48@52@581@Elune Demonic Stick@170@15@Item +15 FULL.                #Classe: SUM@@182@185@0@0@177@1@Creditos@Creditos@181@200@0@5810|@2578@2@1@5810|@0@508@669
+48@53@582@Elune Ring of Ice@170@15@Item +15 FULL.                #Classe: Todas@@182@185@0@0@177@1@Creditos@Creditos@181@200@0@5820|@6664@2@1@5820|@0@508@669
+48@54@583@Magni Piercing Groove Armor@170@13@Item +15 FULL.                #Classe: FM@@182@185@0@0@177@1@Creditos@Creditos@181@200@0@5830|@4157@2@1@5830|@0@508@669
+48@55@584@Magni Piercing Groove Helm@170@13@Item +15 FULL.                #Classe: FM@@182@185@0@0@177@1@Creditos@Creditos@181@200@0@5840|@3645@2@1@5840|@0@508@669
+48@56@585@Magni Piercing Groove Boots@170@13@Item +15 FULL.                #Classe: FM@@182@185@0@0@177@1@Creditos@Creditos@181@200@0@5850|@5693@2@1@5850|@0@508@669
+48@57@586@Magni Piercing Blade Glove@170@25@Item +15 FULL.                #Classe: FM@@182@185@0@0@177@1@Creditos@Creditos@181@200@0@5860|@34@2@1@5860|@0@508@669
+48@58@587@Magni Ring of Wind@170@15@Item +15 FULL.                #Classe: FM@@182@185@0@0@177@1@Creditos@Creditos@181@200@0@5870|@6679@2@1@5870|@0@508@669
+49@1@351@Vicious Dragon Armor@170@10@Item +15 FULL.       #Classe: BM / DM@@182@185@0@0@177@1@Creditos@Creditos@181@200@0@3510|@4097@2@1@3510|@0@508@669
+49@2@352@Vicious Dragon Pants@170@10@Item +15 FULL.       #Classe: BM / DM@@182@185@0@0@177@1@Creditos@Creditos@181@200@0@3520|@4609@2@1@3520|@0@508@669
+49@3@353@Vicious Dragon Helm@170@10@Item +15 FULL.       #Classe: BM / DM@@182@185@0@0@177@1@Creditos@Creditos@181@200@0@3530|@3585@2@1@3530|@0@508@669
+49@4@354@Vicious Ring of Earth@170@15@Item +15 FULL.      #Classe: Todas@@182@185@0@0@177@1@Creditos@Creditos@181@200@0@3540|@6678@2@1@3540|@0@508@669
+49@5@355@Isis Legendary Armor@170@10@Item +15 FULL.       #Classe: GM / DM@@182@185@0@0@177@1@Creditos@Creditos@181@200@0@3550|@4099@2@1@3550|@0@508@669
+49@6@356@Isis Legendary Pants@170@10@Item +15 FULL.       #Classe: GM / DM@@182@185@0@0@177@1@Creditos@Creditos@181@200@0@3560|@4611@2@1@3560|@0@508@669
+49@7@357@Isis Legendary Boots@170@10@Item +15 FULL.       #Classe: GM / DM@@182@185@0@0@177@1@Creditos@Creditos@181@200@0@3570|@5635@2@1@3570|@0@508@669
+49@8@358@Isis Legendary Helm@170@10@Item +15 FULL.       #Classe: GM / DM@@182@185@0@0@177@1@Creditos@Creditos@181@200@0@3580|@3587@2@1@3580|@0@508@669
+49@9@359@Aruane Guardian Armor@170@10@Item +15 FULL.       #Classe: ELF@@182@185@0@0@177@1@Creditos@Creditos@181@200@0@3590|@4110@2@1@3590|@0@508@669
+49@10@360@Aruane Guardian Pants@170@10@Item +15 FULL.       #Classe: ELF@@182@185@0@0@177@1@Creditos@Creditos@181@200@0@3600|@4622@2@1@3600|@0@508@669
+49@11@361@Aruane Guardian Boots@170@10@Item +15 FULL.       #Classe: ELF@@182@185@0@0@177@1@Creditos@Creditos@181@200@0@3610|@5646@2@1@3610|@0@508@669
+49@12@362@Aruane Guardian Helm@170@10@Item +15 FULL.       #Classe: ELF@@182@185@0@0@177@1@Creditos@Creditos@181@200@0@3620|@3598@2@1@3620|@0@508@669
+49@13@363@Muren Atlans Armor@170@10@Item +15 FULL.       #Classe: DM@@182@185@0@0@177@1@Creditos@Creditos@181@200@0@3630|@4111@2@1@3630|@0@508@669
+49@14@364@Muren Atlans Pants@170@10@Item +15 FULL.       #Classe: DM@@182@185@0@0@177@1@Creditos@Creditos@181@200@0@3640|@4623@2@1@3640|@0@508@669
+49@15@365@Muren Atlans Gloves@170@10@Item +15 FULL.       #Classe: DM@@182@185@0@0@177@1@Creditos@Creditos@181@200@0@3650|@5135@2@1@3650|@0@508@669
+49@16@366@Muren Ring of Fire@170@15@Item +15 FULL.      #Classe: Todas@@182@185@0@0@177@1@Creditos@Creditos@181@200@0@3660|@6677@2@1@3660|@0@508@669
+49@17@367@Agnis Adamantine Armor@170@10@Item +15 FULL.       #Classe: LE@@182@185@0@0@177@1@Creditos@Creditos@181@200@0@3670|@4122@2@1@3670|@0@508@669
+49@18@368@Agnis Adamantine Pants@170@10@Item +15 FULL.       #Classe: LE@@182@185@0@0@177@1@Creditos@Creditos@181@200@0@3680|@4634@2@1@3680|@0@508@669
+49@19@369@Agnis Adamantine Mask@170@10@Item +15 FULL.       #Classe: LE@@182@185@0@0@177@1@Creditos@Creditos@181@200@0@3690|@3610@2@1@3690|@0@508@669
+49@20@370@Agnis Ring of Poison@170@15@Item +15 FULL.      #Classe: Todas@@182@185@0@0@177@1@Creditos@Creditos@181@200@0@3700|@6665@2@1@3700|@0@508@669
+49@21@371@Browii Adamantine Pants@170@10@Item +15 FULL.       #Classe: LE@@182@185@0@0@177@1@Creditos@Creditos@181@200@0@3710|@4634@2@1@3710|@0@508@669
+49@22@372@Browii Adamantine Gloves@170@10@Item +15 FULL.       #Classe: LE@@182@185@0@0@177@1@Creditos@Creditos@181@200@0@3720|@5146@2@1@3720|@0@508@669
+49@23@373@Browii Adamantine Boots@170@10@Item +15 FULL.       #Classe: LE@@182@185@0@0@177@1@Creditos@Creditos@181@200@0@3730|@5658@2@1@3730|@0@508@669
+49@24@374@Browii Pendant of Ice@170@15@Item +15 FULL.      #Classe: Todas@@182@185@0@0@177@1@Creditos@Creditos@181@200@0@3740|@6681@2@1@3740|@0@508@669
+49@25@375@Krono Red Wing Helm@170@10@Item +15 FULL.       #Classe: SUM@@182@185@0@0@177@1@Creditos@Creditos@181@200@0@3750|@3624@2@1@3750|@0@508@669
+49@26@376@Krono Red Wing Pants@170@10@Item +15 FULL.       #Classe: SUM@@182@185@0@0@177@1@Creditos@Creditos@181@200@0@3760|@4648@2@1@3760|@0@508@669
+49@27@377@Krono Red Wing Gloves@170@10@Item +15 FULL.       #Classe: SUM@@182@185@0@0@177@1@Creditos@Creditos@181@200@0@3770|@5160@2@1@3770|@0@508@669
+49@28@378@Krono Ring of Magic@170@15@Item +15 FULL.      #Classe: Todas@@182@185@0@0@177@1@Creditos@Creditos@181@200@0@3780|@6680@2@1@3780|@0@508@669
+49@29@379@Semeden Red Wing Helm@170@10@Item +15 FULL.       #Classe: SUM@@182@185@0@0@177@1@Creditos@Creditos@181@200@0@3790|@3624@2@1@3790|@0@508@669
+49@30@380@Semeden Red Wing Armor@170@10@Item +15 FULL.       #Classe: SUM@@182@185@0@0@177@1@Creditos@Creditos@181@200@0@3800|@4136@2@1@3800|@0@508@669
+49@31@381@Semeden Red Wing Gloves@170@10@Item +15 FULL.       #Classe: SUM@@182@185@0@0@177@1@Creditos@Creditos@181@200@0@3810|@5160@2@1@3810|@0@508@669
+49@32@382@Semeden Red Wing Boots@170@10@Item +15 FULL.       #Classe: SUM@@182@185@0@0@177@1@Creditos@Creditos@181@200@0@3820|@5672@2@1@3820|@0@508@669
+49@33@383@Warrior Leather Armor@170@10@Item +15 FULL.       #Classe: BM / DM / LE / FM@@182@185@0@0@177@1@Creditos@Creditos@181@200@0@3830|@4101@2@1@3830|@0@508@669
+49@34@384@Warrior Leather Helm@170@10@Item +15 FULL.       #Classe: BM / DM / LE / FM@@182@185@0@0@177@1@Creditos@Creditos@181@200@0@3840|@3589@2@1@3840|@0@508@669
+49@35@385@Warrior Leather Pants@170@10@Item +15 FULL.       #Classe: BM / DM / LE / FM@@182@185@0@0@177@1@Creditos@Creditos@181@200@0@3850|@4613@2@1@3850|@0@508@669
+49@36@386@Warrior Leather Gloves@170@10@Item +15 FULL.        #Classe: BM / DM / LE@@182@185@0@0@177@1@Creditos@Creditos@181@200@0@3860|@5125@2@1@3860|@0@508@669
+49@37@387@Warrior Leather Boots@170@10@Item +15 FULL.       #Classe: BM / DM / LE / FM@@182@185@0@0@177@1@Creditos@Creditos@181@200@0@3870|@5637@2@1@3870|@0@508@669
+49@38@388@Warrior Morning Star@170@10@Item +15 FULL.       #Classe: BM / DM / GM / FM@@182@185@0@0@177@1@Creditos@Creditos@181@200@0@3880|@1025@2@1@3880|@0@508@669
+49@39@389@Warrior Ring of Ice@170@15@Item +15 FULL.      #Classe: Todas@@182@185@0@0@177@1@Creditos@Creditos@181@200@0@3890|@6664@2@1@3890|@0@508@669
+49@40@390@Hyperion Bronze Armor@170@10@Item +15 FULL.       #Classe: BM / DM / LE@@182@185@0@0@177@1@Creditos@Creditos@181@200@0@3900|@4096@2@1@3900|@0@508@669
+49@41@391@Hyperion Bronze Pants@170@10@Item +15 FULL.       #Classe: BM / DM / LE@@182@185@0@0@177@1@Creditos@Creditos@181@200@0@3910|@4608@2@1@3910|@0@508@669
+49@42@392@Hyperion Bronze Boots@170@10@Item +15 FULL.       #Classe: BM / DM / LE@@182@185@0@0@177@1@Creditos@Creditos@181@200@0@3920|@5632@2@1@3920|@0@508@669
+49@43@393@Eplete Scale Armor@170@10@Item +15 FULL.       #Classe: BM / DM / LE / FM@@182@185@0@0@177@1@Creditos@Creditos@181@200@0@3930|@4102@2@1@3930|@0@508@669
+49@44@394@Eplete Scale Pants@170@10@Item +15 FULL.       #Classe: BM / DM / LE / FM@@182@185@0@0@177@1@Creditos@Creditos@181@200@0@3940|@4614@2@1@3940|@0@508@669
+49@45@395@Eplete Scale Helm@170@10@Item +15 FULL.       #Classe: BM / DM / LE / FM@@182@185@0@0@177@1@Creditos@Creditos@181@200@0@3950|@3590@2@1@3950|@0@508@669
+49@46@396@Eplete Plate Shield@170@10@Item +15 FULL.       #Classe: BM / DM / LE@@182@185@0@0@177@1@Creditos@Creditos@181@200@0@3960|@3081@2@1@3960|@0@508@669
+49@47@397@Eplete Pendant of Lighting@170@15@Item +15 FULL.      #Classe: Todas@@182@185@0@0@177@1@Creditos@Creditos@181@200@0@3970|@6668@2@1@3970|@0@508@669
+49@48@398@Garuda Brass Armor@170@10@Item +15 FULL.       #Classe: BM / DM / FM@@182@185@0@0@177@1@Creditos@Creditos@181@200@0@3980|@4104@2@1@3980|@0@508@669
+49@49@399@Garuda Brass Pants@170@10@Item +15 FULL.       #Classe: BM / DM / FM@@182@185@0@0@177@1@Creditos@Creditos@181@200@0@3990|@4616@2@1@3990|@0@508@669
+49@50@400@Garuda Brass Gloves@170@10@Item +15 FULL.       #Classe: BM / DM@@182@185@0@0@177@1@Creditos@Creditos@181@200@0@4000|@5128@2@1@4000|@0@508@669
+49@51@401@Garuda Brass Boots@170@10@Item +15 FULL.       #Classe: BM / DM / FM@@182@185@0@0@177@1@Creditos@Creditos@181@200@0@4010|@5640@2@1@4010|@0@508@669
+49@52@402@Garuda Pendant of Fire@170@15@Item +15 FULL.      #Classe: Todas@@182@185@0@0@177@1@Creditos@Creditos@181@200@0@4020|@6669@2@1@4020|@0@508@669
+49@53@403@Kantata Plate Armor@170@10@Item +15 FULL.       #Classe: BM / DM / FM@@182@185@0@0@177@1@Creditos@Creditos@181@200@0@4030|@4105@2@1@4030|@0@508@669
+49@54@404@Kantata Plate Gloves@170@10@Item +15 FULL.       #Classe: BM / DM@@182@185@0@0@177@1@Creditos@Creditos@181@200@0@4040|@5129@2@1@4040|@0@508@669
+49@55@405@Kantata Plate Boots@170@10@Item +15 FULL.       #Classe: BM / DM / FM@@182@185@0@0@177@1@Creditos@Creditos@181@200@0@4050|@5641@2@1@4050|@0@508@669
+49@56@406@Kantata Ring of Poison@170@15@Item +15 FULL.      #Classe: Todas@@182@185@0@0@177@1@Creditos@Creditos@181@200@0@4060|@6665@2@1@4060|@0@508@669
+49@57@407@Kantata Ring of Wind@170@15@Item +15 FULL.      #Classe: Todas@@182@185@0@0@177@1@Creditos@Creditos@181@200@0@4070|@6679@2@1@4070|@0@508@669
+49@58@408@Hyon Dragon Helm@170@10@Item +15 FULL.         #Classe: BM / DM@@182@185@0@0@177@1@Creditos@Creditos@181@200@0@4080|@3585@2@1@4080|@0@508@669
+49@59@409@Hyon Dragon Gloves@170@10@Item +15 FULL.       #Classe: BM / DM@@182@185@0@0@177@1@Creditos@Creditos@181@200@0@4090|@5121@2@1@4090|@0@508@669
+49@60@410@Hyon Dragon Boots@170@10@Item +15 FULL.       #Classe: BM / DM@@182@185@0@0@177@1@Creditos@Creditos@181@200@0@4100|@5633@2@1@4100|@0@508@669
+49@61@411@Hyon Lighting Sword@170@10@Item +15 FULL.       #Classe: BM / DM / ELF@@182@185@0@0@177@1@Creditos@Creditos@181@200@0@4110|@14@2@1@4110|@0@508@669
+49@62@412@Apollo Pad Armor@170@10@Item +15 FULL.       #Classe: GM / DM@@182@185@0@0@177@1@Creditos@Creditos@181@200@0@4120|@4098@2@1@4120|@0@508@669
+49@63@413@Apollo Pad Pants@170@10@Item +15 FULL.       #Classe: GM / DM@@182@185@0@0@177@1@Creditos@Creditos@181@200@0@4130|@4610@2@1@4130|@0@508@669
+49@64@414@Apollo Pad Helm@170@10@Item +15 FULL.       #Classe: GM / DM@@182@185@0@0@177@1@Creditos@Creditos@181@200@0@4140|@3586@2@1@4140|@0@508@669
+49@65@415@Apollo Pad Gloves@170@10@Item +15 FULL.       #Classe: GM / DM@@182@185@0@0@177@1@Creditos@Creditos@181@200@0@4150|@5122@2@1@4150|@0@508@669
+49@66@416@Apollo Skull Staff@170@10@Item +15 FULL.       #Classe: GM / DM / SUM@@182@185@0@0@177@1@Creditos@Creditos@181@200@0@4160|@2560@2@1@4160|@0@508@669
+49@67@417@Apollo Pendant of Ice@170@15@Item +15 FULL.      #Classe: Todas@@182@185@0@0@177@1@Creditos@Creditos@181@200@0@4170|@6681@2@1@4170|@0@508@669
+49@68@418@Apollo Ring of Magic@170@15@Item +15 FULL.      #Classe: Todas@@182@185@0@0@177@1@Creditos@Creditos@181@200@0@4180|@6680@2@1@4180|@0@508@669
+49@69@419@Evis Bone Armor@170@10@Item +15 FULL.       #Classe: GM / DM@@182@185@0@0@177@1@Creditos@Creditos@181@200@0@4190|@4100@2@1@4190|@0@508@669
+49@70@420@Evis Bone Pants@170@10@Item +15 FULL.       #Classe: GM / DM@@182@185@0@0@177@1@Creditos@Creditos@181@200@0@4200|@4612@2@1@4200|@0@508@669
+49@71@421@Evis Bone Boots@170@10@Item +15 FULL.       #Classe: GM / DM@@182@185@0@0@177@1@Creditos@Creditos@181@200@0@4210|@5636@2@1@4210|@0@508@669
+49@72@422@Evis Pendant of Wind@170@15@Item +15 FULL.      #Classe: Todas@@182@185@0@0@177@1@Creditos@Creditos@181@200@0@4220|@6682@2@1@4220|@0@508@669
+49@73@423@Hera Sphinx Armor@170@10@Item +15 FULL.       #Classe: GM / DM@@182@185@0@0@177@1@Creditos@Creditos@181@200@0@4230|@4103@2@1@4230|@0@508@669
+49@74@424@Hera Sphinx Pants@170@10@Item +15 FULL.       #Classe: GM / DM@@182@185@0@0@177@1@Creditos@Creditos@181@200@0@4240|@4615@2@1@4240|@0@508@669
+49@75@425@Hera Sphinx Boots@170@10@Item +15 FULL.       #Classe: GM / DM@@182@185@0@0@177@1@Creditos@Creditos@181@200@0@4250|@5639@2@1@4250|@0@508@669
+49@76@426@Hera Sphinx Mask@170@10@Item +15 FULL.       #Classe: GM / DM@@182@185@0@0@177@1@Creditos@Creditos@181@200@0@4260|@3591@2@1@4260|@0@508@669
+49@77@427@Hera Sphinx Gloves@170@10@Item +15 FULL.       #Classe: GM / DM@@182@185@0@0@177@1@Creditos@Creditos@181@200@0@4270|@5127@2@1@4270|@0@508@669
+49@78@428@Hera Skull Shield@170@10@Item +15 FULL.       #Classe: GM / DM / BM / ELF@@182@185@0@0@177@1@Creditos@Creditos@181@200@0@4280|@3078@2@1@4280|@0@508@669
+49@79@429@Anubis Legendary Armor@170@10@Item +15 FULL.       #Classe: GM / DM@@182@185@0@0@177@1@Creditos@Creditos@181@200@0@4290|@4099@2@1@4290|@0@508@669
+49@80@430@Anubis Legendary Helm@170@10@Item +15 FULL.       #Classe: GM / DM@@182@185@0@0@177@1@Creditos@Creditos@181@200@0@4300|@3587@2@1@4300|@0@508@669
+49@81@431@Anubis Legendary Gloves@170@10@Item +15 FULL.       #Classe: GM / DM@@182@185@0@0@177@1@Creditos@Creditos@181@200@0@4310|@5123@2@1@4310|@0@508@669
+49@82@432@Anubis Ring of Fire@170@15@Item +15 FULL.      #Classe: Todas@@182@185@0@0@177@1@Creditos@Creditos@181@200@0@4320|@6677@2@1@4320|@0@508@669
+49@83@433@Gaion Atlans Armor@170@10@Item +15 FULL.       #Classe: DM@@182@185@0@0@177@1@Creditos@Creditos@181@200@0@4330|@4111@2@1@4330|@0@508@669
+49@84@434@Gaion Atlans Pants@170@10@Item +15 FULL.       #Classe: DM@@182@185@0@0@177@1@Creditos@Creditos@181@200@0@4340|@4623@2@1@4340|@0@508@669
+49@85@435@Gaion Atlans Boots@170@10@Item +15 FULL.       #Classe: DM@@182@185@0@0@177@1@Creditos@Creditos@181@200@0@4350|@5647@2@1@4350|@0@508@669
+49@86@436@Gaion Pendant of Water@170@15@Item +15 FULL.      #Classe: Todas@@182@185@0@0@177@1@Creditos@Creditos@181@200@0@4360|@6683@2@1@4360|@0@508@669
+49@87@519@Ceto Vine Helm@170@10@Item +15 FULL.         #Classe: ELF@@182@185@0@0@177@1@Creditos@Creditos@181@200@0@5190|@3594@2@1@5190|@0@508@669
+49@88@520@Ceto Vine Pants@170@10@Item +15 FULL.         #Classe: ELF@@182@185@0@0@177@1@Creditos@Creditos@181@200@0@5200|@4618@2@1@5200|@0@508@669
+49@89@521@Ceto Vine Gloves@170@10@Item +15 FULL.         #Classe: ELF@@182@185@0@0@177@1@Creditos@Creditos@181@200@0@5210|@5130@2@1@5210|@0@508@669
+49@90@522@Ceto Vine Boots@170@10@Item +15 FULL.         #Classe: ELF@@182@185@0@0@177@1@Creditos@Creditos@181@200@0@5220|@5642@2@1@5220|@0@508@669
+49@91@523@Ceto Rapier@170@10@Item +15 FULL.          #Classe: BM / DM / LE / ELF@@182@185@0@0@177@1@Creditos@Creditos@181@200@0@5230|@2@2@1@5230|@0@508@669
+49@92@524@Ceto Ring of Earth@170@15@Item +15 FULL.           #Classe: Todas@@182@185@0@0@177@1@Creditos@Creditos@181@200@0@5240|@6678@2@1@5240|@0@508@669
+49@93@525@Gaia Silk Helm@170@10@Item +15 FULL.          #Classe: ELF@@182@185@0@0@177@1@Creditos@Creditos@181@200@0@5250|@3595@2@1@5250|@0@508@669
+49@94@526@Gaia Silk Armor@170@10@Item +15 FULL.          #Classe: ELF@@182@185@0@0@177@1@Creditos@Creditos@181@200@0@5260|@4107@2@1@5260|@0@508@669
+49@95@527@Gaia Silk Pants@170@10@Item +15 FULL.          #Classe: ELF@@182@185@0@0@177@1@Creditos@Creditos@181@200@0@5270|@4619@2@1@5270|@0@508@669
+49@96@528@Gaia Silk Gloves@170@10@Item +15 FULL.          #Classe: ELF@@182@185@0@0@177@1@Creditos@Creditos@181@200@0@5280|@5131@2@1@5280|@0@508@669
+49@97@529@Gaia Golden Crossbow@170@10@Item +15 FULL.          #Classe: ELF@@182@185@0@0@177@1@Creditos@Creditos@181@200@0@5290|@2057@2@1@5290|@0@508@669
+51@2@589@Vault Expansion Certificate@170@15@Expande todos seus b?us.@@182@185@0@0@177@1@Creditos@Creditos@181@200@0@5890|@7331@2@1@5890|@0@508@669
+51@3@590@Magic Backpack@170@10@Expande 1x seu inventorio.   #Maximo 2x.@@182@185@0@0@177@1@Creditos@Creditos@181@200@0@5900|@7330@2@1@5900|@0@508@669
+51@4@591@Seal of Ascension@170@10@Aumenta EXP ganha em 50%.     #Usado para upar mais rapido.     #Duracao 7 dias.@@182@185@0@0@177@1@Creditos@Creditos@181@200@0@5910|@6699@2@1@5910|@0@508@669
+51@5@592@Seal of Wealth@170@20@Aumenta EXP ganha em 100%.    #Usado para upar mais rapido.    #Duracao 7 dias.@@182@185@0@0@177@1@Creditos@Creditos@181@200@0@5920|@6700@2@1@5920|@0@508@669
+51@6@593@Seal of Healing@170@15@Aumenta EXP ganha em 50%.     #Auto-recupera vida(HP) 5%.     #Usado para upar mais rapido.      #Duracao 7 dias.@@182@185@0@0@177@1@Creditos@Creditos@181@200@0@5930|@6718@2@1@5930|@0@508@669
+51@7@594@Party EXP Scroll@170@15@Aumenta EXP ganha em ate 30%.     #Dependendo do numero de pessoas na party.     #Usado para upar mais rapido.      #Duracao 7 dias.@@182@185@0@0@177@1@Creditos@Creditos@181@200@0@5940|@6759@2@1@5940|@0@508@669
+51@8@595@Max AG Boost Aura@170@3@Aumenta seu AG.     #Duracao 7 dias.@@182@185@0@0@177@1@Creditos@Creditos@181@200@0@5950|@6760@2@1@5950|@0@508@669
+51@9@596@Max SD Boost Aura@170@3@Aumenta seu SD.    #Duracao 7 dias.@@182@185@0@0@177@1@Creditos@Creditos@181@200@0@5960|@6761@2@1@5960|@0@508@669
+51@10@602@Kit PvP@170@20@ Incluso no Pacote:       #4 - Demon.       #1 - Spirit of Guardian.       #1 - Fenrir Black.     #1 - Lethal Ring.       #1 - Max SD Boost Aura.       #1 - Scroll Master of Battle.       #1 - Scroll Master of Strengthener. @@182@185@0@0@177@1@Creditos@Creditos@181@200@0@5960|5970|4820|4830|4610|4570|@7302@2@1@@0@508@669
+52@1@464@Scroll of Quickness@170@2@Valido por 7 dias.@@182@185@0@0@177@1@Creditos@Creditos@181@200@0@4640|@7240@2@1@4640|@0@508@669
+52@2@465@Scroll of Defense@170@2@Valido por 7 dias.@@182@185@0@0@177@1@Creditos@Creditos@181@200@0@4650|@7241@2@1@4650|@0@508@669
+52@3@466@Scroll of Wrath@170@2@Valido por 7 dias.@@182@185@0@0@177@1@Creditos@Creditos@181@200@0@4660|@7242@2@1@4660|@0@508@669
+52@4@467@Scroll of Wizardry@170@2@Valido por 7 dias.@@182@185@0@0@177@1@Creditos@Creditos@181@200@0@4670|@7243@2@1@4670|@0@508@669
+52@5@468@Scroll of Health@170@2@Valido por 7 dias.@@182@185@0@0@177@1@Creditos@Creditos@181@200@0@4680|@7244@2@1@4680|@0@508@669
+52@6@469@Scroll of Mana@170@2@Valido por 7 dias.@@182@185@0@0@177@1@Creditos@Creditos@181@200@0@4690|@7245@2@1@4690|@0@508@669
+52@7@470@Scroll of Battle@170@3@Valido por 7 dias.@@182@185@0@0@177@1@Creditos@Creditos@181@200@0@4700|@7265@2@1@4700|@0@508@669
+52@8@471@Scroll of Strength@170@3@Valido por 7 dias.@@182@185@0@0@177@1@Creditos@Creditos@181@200@0@4710|@7266@2@1@4710|@0@508@669
+52@9@472@Scroll of Healing@170@2@Valido por 7 dias.@@182@185@0@0@177@1@Creditos@Creditos@181@200@0@4720|@7308@2@1@4720|@0@508@669
+52@10@477@Scroll Master of Wizardry@170@2@Valido por 7 dias.@@182@185@0@0@177@1@Creditos@Creditos@181@200@0@4770|@7394@2@1@4770|@0@508@669
+52@11@478@Scroll Master of Health@170@2@Valido por 7 dias.@@182@185@0@0@177@1@Creditos@Creditos@181@200@0@4780|@7395@2@1@4780|@0@508@669
+52@12@480@Scroll Master of Wrath@170@2@Valido por 7 dias.@@182@185@0@0@177@1@Creditos@Creditos@181@200@0@4800|@7397@2@1@4800|@0@508@669
+52@13@479@Scroll Master of Mana@170@2@Valido por 7 dias.@@182@185@0@0@177@1@Creditos@Creditos@181@200@0@4790|@7396@2@1@4790|@0@508@669
+52@14@481@Scroll Master of Recovery@170@2@Valido por 7 dias.@@182@185@0@0@177@1@Creditos@Creditos@181@200@0@4810|@7398@2@1@4810|@0@508@669
+52@15@482@Scroll Master of Battle@170@2@Valido por 7 dias.@@182@185@0@0@177@1@Creditos@Creditos@181@200@0@4820|@7399@2@1@4820|@0@508@669
+52@16@483@Scroll Master of Strenghener@170@3@Valido por 7 dias.@@182@185@0@0@177@1@Creditos@Creditos@181@200@0@4830|@7400@2@1@4830|@0@508@669
+52@17@484@Scroll Master of Quickness@170@3@Valido por 7 dias.@@182@185@0@0@177@1@Creditos@Creditos@181@200@0@4840|@7403@2@1@4840|@0@508@669
+53@1@442@Skull (Evolved)@170@10@Description@@182@185@0@0@177@1@Creditos@Creditos@181@200@0@4420|@6892@2@1@4420|@0@508@669
+53@2@443@Witch (Evolved)@170@10@Description@@182@185@0@0@177@1@Creditos@Creditos@181@200@0@4430|@6890@2@1@4430|@0@508@669
+53@3@444@Luki (Evolved)@170@10@Description@@182@185@0@0@177@1@Creditos@Creditos@181@200@0@4440|@6869@2@1@4440|@0@508@669
+53@4@445@Nymph (Evolved)@170@10@Description@@182@185@0@0@177@1@Creditos@Creditos@181@200@0@4450|@6873@2@1@4450|@0@508@669
+53@5@446@William (Evolved)@170@10@Description@@182@185@0@0@177@1@Creditos@Creditos@181@200@0@4460|@6880@2@1@4460|@0@508@669
+53@6@447@Paul (Evolved)@170@10@Description@@182@185@0@0@177@1@Creditos@Creditos@181@200@0@4470|@6882@2@1@4470|@0@508@669
+53@7@448@Pumpy (Evolved)@170@10@Description@@182@185@0@0@177@1@Creditos@Creditos@181@200@0@4480|@6894@2@1@4480|@0@508@669
+53@8@449@Safi (Evolved)@170@10@Description@@182@185@0@0@177@1@Creditos@Creditos@181@200@0@4490|@6875@2@1@4490|@0@508@669
+53@9@450@Tony (Evolved)@170@10@Description@@182@185@0@0@177@1@Creditos@Creditos@181@200@0@4500|@6871@2@1@4500|@0@508@669
+53@10@451@Chiron (Evolved)@170@10@Description@@182@185@0@0@177@1@Creditos@Creditos@181@200@0@4510|@6884@2@1@4510|@0@508@669
+53@11@452@Wooparoo (Evolved)@170@10@Description@@182@185@0@0@177@1@Creditos@Creditos@181@200@0@4520|@6886@2@1@4520|@0@508@669
+53@12@453@Tibetton (Evolved)@170@10@Description@@182@185@0@0@177@1@Creditos@Creditos@181@200@0@4530|@6888@2@1@4530|@0@508@669
+53@13@454@Savath (Evolved)@170@10@Description@@182@185@0@0@177@1@Creditos@Creditos@181@200@0@4540|@6898@2@1@4540|@0@508@669
+53@14@456@Torby (Evolved)@170@10@Description@@182@185@0@0@177@1@Creditos@Creditos@181@200@0@4560|@6902@2@1@4560|@0@508@669
+54@1@455@Spirit of Guardian@170@3@Description@@182@185@0@0@177@1@Creditos@Creditos@181@200@0@4550|@6721@2@1@4550|@0@508@669
+54@2@457@Demon@170@3@Description@@182@185@0@0@177@1@Creditos@Creditos@181@200@0@4570|@6720@2@1@4570|@0@508@669
+54@3@458@Pet Rudolf@170@1@Description@@182@185@0@0@177@1@Creditos@Creditos@181@200@0@4580|@6723@2@1@4580|@0@508@669
+54@4@459@Pet Panda@170@10@Description@@182@185@0@0@177@1@Creditos@Creditos@181@200@0@4590|@6736@2@1@4590|@0@508@669
+54@5@460@Horn of Fenrir@170@15@Description@@182@185@0@0@177@1@Creditos@Creditos@181@200@0@4600|@6693@2@1@4600|@0@508@669
+54@6@461@Black Fenrir@170@15@Description@@182@185@0@0@177@1@Creditos@Creditos@181@200@0@4610|@6693@2@1@4610|@0@508@669
+54@7@462@Blue Fenrir@170@15@Description@@182@185@0@0@177@1@Creditos@Creditos@181@200@0@4620|@6693@2@1@4620|@0@508@669
+54@8@463@Golden Fenrir@170@15@Description@@182@185@0@0@177@1@Creditos@Creditos@181@200@0@4630|@6693@2@1@4630|@0@508@669
+54@9@473@Pet Unicorn@170@1@Description@@182@185@0@0@177@1@Creditos@Creditos@181@200@0@4730|@6762@2@1@4730|@0@508@669
+55@1@597@Lethal Wizard's Ring@170@3@-Aumenta o dano +15%      #-Aumenta Veloc. do ataque +10        #Pode ser usado apenas 1 por vez.      #NAO E FULL.     #Duracao 7 dias.@@182@185@0@0@177@1@Creditos@Creditos@181@200@0@5970|@6763@2@1@5970|@0@508@669
+55@2@474@Talisman of Resurrection@170@1@Description@@182@185@0@0@177@1@Creditos@Creditos@181@200@0@4740|@6725@2@1@4740|@0@508@669
+55@3@475@Talisman of Mobility@170@1@Description@@182@185@0@0@177@1@Creditos@Creditos@181@200@0@4750|@6726@2@1@4750|@0@508@669
+56@1@608@Seed Sphere (Fire)@170@3@Usado em Armas   #Tipo:   #Aumento da Ataque/Magia +52@@182@185@0@0@177@1@Creditos@Creditos@181@200@0@6080|@6268@2@1@6080|@0@508@669
+56@2@609@Seed Sphere (Fire)@170@3@Usado em Armas   #Tipo:   #Aumento da velocidade de ataque +11@@182@185@0@0@177@1@Creditos@Creditos@181@200@0@6090|@6268@2@1@6090|@0@508@669
+56@3@610@Seed Sphere (Water)@170@3@Usado em Armas   #Tipo:   #Aumento da taxa de bloqueio +14%@@182@185@0@0@177@1@Creditos@Creditos@181@200@0@6100|@6269@2@1@6100|@0@508@669
+56@4@611@Seed Sphere (Water)@170@3@Usado em Armas    #Tipo:    #Aumento da defesa +42@@182@185@0@0@177@1@Creditos@Creditos@181@200@0@6110|@6269@2@1@6110|@0@508@669
+56@5@612@Seed Sphere (Water)@170@3@Usado em Armas    #Tipo:    #Aumento da protecao do escudo +30%@@182@185@0@0@177@1@Creditos@Creditos@181@200@0@6120|@6269@2@1@6120|@0@508@669
+56@6@613@Seed Sphere (Water)@170@3@Usado em Armas    #Tipo:    #Reducao de dano +8%@@182@185@0@0@177@1@Creditos@Creditos@181@200@0@6130|@6269@2@1@6130|@0@508@669
+56@7@614@Seed Sphere (Water)@170@3@Usado em Armas    #Tipo:    #Reflexo do dano +9%@@182@185@0@0@177@1@Creditos@Creditos@181@200@0@6140|@6269@2@1@6140|@0@508@669
+56@8@615@Seed Sphere (Ice)@170@3@Usado em Armas    #Tipo:    #Aumento do ataque da habilidade +60@@182@185@0@0@177@1@Creditos@Creditos@181@200@0@6150|@6270@2@1@6150|@0@508@669
+56@9@616@Seed Sphere (Ice)@170@3@Usado em Armas    #Tipo:    #Aumento do sucesso de ataque +40@@182@185@0@0@177@1@Creditos@Creditos@181@200@0@6160|@6270@2@1@6160|@0@508@669
+56@10@617@Seed Sphere (Wind)@170@3@Usado em Armas    #Tipo:    #Aumento da recuperacao de vida +20@@182@185@0@0@177@1@Creditos@Creditos@181@200@0@6170|@6271@2@1@6170|@0@508@669
+56@11@618@Seed Sphere (Wind)@170@3@Usado em Armas    #Tipo:    #Aumento da vida maxima +8%@@182@185@0@0@177@1@Creditos@Creditos@181@200@0@6180|@6271@2@1@6180|@0@508@669
+56@12@619@Seed Sphere (Lightning)@170@3@Usado em Armas    #Tipo:    #Aumento do dano excelente +40@@182@185@0@0@177@1@Creditos@Creditos@181@200@0@6190|@6272@2@1@6190|@0@508@669
+56@13@620@Seed Sphere (Lightning)@170@3@Usado em Armas    #Tipo:    #Aumento da taxa de dano excelente +14%@@182@185@0@0@177@1@Creditos@Creditos@181@200@0@6200|@6272@2@1@6200|@0@508@669
+56@14@621@Seed Sphere (Lightning)@170@3@Usado em Armas    #Tipo:    #Aumento do dano critico +50@@182@185@0@0@177@1@Creditos@Creditos@181@200@0@6210|@6272@2@1@6210|@0@508@669
+56@15@622@Seed Sphere (Lightning)@170@3@Usado em Armas    #Tipo:    #Aumento da taxa de dano critico +12%@@182@185@0@0@177@1@Creditos@Creditos@181@200@0@6220|@6272@2@1@6220|@0@508@669
+56@16@623@Seed Sphere (Earth)@170@3@Usado em Armas    #Tipo:    #Aumento da vida +38@@182@185@0@0@177@1@Creditos@Creditos@181@200@0@6230|@6273@2@1@6230|@0@508@669
+57@1@437@VIP Simples@170@10@Assinar VIP Simples 30 dias. #*Assinando um plano superior ao seu plano atual o vip eh zerado e conta apenas 30 dias do vip novo, se voce assinar um plano igual sera somado 30 dias mais o dias que voce ja tem!@@182@185@0@0@177@1@Creditos@Creditos@181@200@0@4370|@6780@2@1@4370|@0@508@669
+57@2@659@VIP Super@170@20@Assinar VIP Super 30 dias. #*Assinando um plano superior ao seu plano atual o vip eh zerado e conta apenas 30 dias do vip novo, se voce assinar um plano igual sera somado 30 dias mais o dias que voce ja tem!@@182@185@0@0@177@1@Creditos@Creditos@181@200@0@6590|@6780@2@1@6590|@0@508@669
+57@3@660@VIP Premium@170@30@Assinar VIP Premium 30 dias. #*Assinando um plano superior ao seu plano atual o vip eh zerado e conta apenas 30 dias do vip novo, se voce assinar um plano igual sera somado 30 dias mais o dias que voce ja tem!@@182@185@0@0@177@1@Creditos@Creditos@181@200@0@6600|@6780@2@1@6600|@0@508@669
+61@1@438@Chaos Card@170@500@Troque por itens aleatorios no NPC Card Master. #Apenas partes de SETS ou Shields.@@182@185@0@0@177@1@Golds@Golds@181@200@0@4380|@7222@5@1@4380|@1@0@669
+61@2@439@Chaos Card  Mini@170@1000@Troque por itens aleatorios no NPC Card Master.  #  #Apenas Armas.@@182@185@0@0@177@1@Golds@Golds@181@200@0@4390|@7263@5@1@4390|@1@0@669
+61@3@440@Chaos Card Gold@170@500@Troque por itens aleatorios no NPC Card Master. #Apenas partes de SETS ou Shields. #*Podem sair itens FULLS.@@182@185@0@0@177@1@M.Golds@M.Golds@181@200@0@4400|@7260@3@1@4400|@0@509@669
+61@4@441@Chaos Card Rare@170@1000@Troque por itens aleatorios no NPC Card Master.  #Apenas Armas.  #*Podem sair itens FULLS.@@182@185@0@0@177@1@M.Golds@M.Golds@181@200@0@4410|@7261@3@1@4410|@0@509@669
+61@5@598@Seal of Ascension@170@10000@Aumenta EXP ganha em 50%.       #Usado para upar mais rapido.       #Duracao 7 dias.@@182@185@0@0@177@1@Golds@Golds@181@200@0@5980|@6699@5@1@5980|@1@0@669
+61@6@599@Seal of Wealth@170@40000@Aumenta EXP ganha em 100%.     #Usado para upar mais rapido.     #Duracao 7 dias.@@182@185@0@0@177@1@Golds@Golds@181@200@0@5990|@6700@5@1@5990|@1@0@669
+61@7@600@Seal of Healing@170@25000@Aumenta EXP ganha em 50%.      #Auto-recupera vida(HP) 5%.      #Usado para upar mais rapido.       #Duracao 7 dias.@@182@185@0@0@177@1@Golds@Golds@181@200@0@6000|@6718@5@1@6000|@1@0@669
+61@8@601@Party EXP Scroll@170@5000@Aumenta EXP ganha em ate 30%.     #Dependendo do numero de pessoas na party.     #Usado para upar mais rapido.      #Duracao 7 dias.@@182@185@0@0@177@1@Golds@Golds@181@200@0@6010|@6759@5@1@6010|@1@0@669
+61@9@688@Vault Expansion Certificate@170@40000@Expande o baú.@@182@185@0@0@177@1@M.Golds@M.Golds@181@200@0@6880|@7331@3@1@6880|@0@509@669
+61@10@689@Magic Backpack@170@30000@Expande o inventorio 1x.@@182@185@0@0@177@1@M.Golds@M.Golds@181@200@0@6890|@7330@3@1@6890|@0@509@669
+62@1@485@Scroll Master of Defense@170@1000@Valido por 7 dias.@@182@185@0@0@177@1@Golds@Golds@181@200@0@4850|@7393@5@1@4850|@1@0@669
+62@2@476@Scroll Master of Wizardry@170@1000@Valido por 7 dias.@@182@185@0@0@177@1@Golds@Golds@181@200@0@4760|@7394@5@1@4760|@1@0@669
+62@3@486@Scroll Master of Health@170@1000@Valido por 7 dias.@@182@185@0@0@177@1@Golds@Golds@181@200@0@4860|@7395@5@1@4860|@1@0@669
+62@4@487@Scroll Master of Mana@170@1000@Valido por 7 dias.@@182@185@0@0@177@1@Golds@Golds@181@200@0@4870|@7396@5@1@4870|@1@0@669
+62@5@488@Scroll Master of Wrath@170@1000@Valido por 7 dias.@@182@185@0@0@177@1@Golds@Golds@181@200@0@4880|@7397@5@1@4880|@1@0@669
+62@6@518@Elite Healing Potion@170@1000@255 unidades.    #Classe: Todas@@182@185@0@0@177@1@Golds@Golds@181@200@0@5180|@7238@5@1@5180|@1@0@669
+62@7@603@Scroll Master of Battle@170@5000@Valido por 7 dias@@182@185@0@0@177@1@M.Golds@M.Golds@181@200@0@6030|@7399@3@1@6030|@0@509@669
+62@8@604@Scroll Master of Strenghener@170@5000@Valido por 7 dias@@182@185@0@0@177@1@M.Golds@M.Golds@181@200@0@6040|@7400@3@1@6040|@0@509@669
+62@9@605@Lethal Wizard's Ring@170@5000@Valido por 7 dias.  #Classe: Todas.@@182@185@0@0@177@1@M.Golds@M.Golds@181@200@0@6050|@6763@3@1@6050|@0@509@669
+63@1@489@Spirit Map@170@300@Acesso para Acheron.@@182@185@0@0@177@1@Golds@Golds@181@200@0@4890|@6802@5@1@4890|@1@0@669
+63@2@508@Devil Square Ticket@170@300@Item +15 FULL.       #Classe: Todas@@182@185@0@0@177@1@Golds@Golds@181@200@0@5080|@6702@5@1@5080|@1@0@669
+63@3@509@Blood Castle Ticket@170@300@Item +15 FULL.       #Classe: Todas@@182@185@0@0@177@1@Golds@Golds@181@200@0@5090|@6703@5@1@5090|@1@0@669
+63@4@510@Kalima Ticket@170@300@Classe: Todas@@182@185@0@0@177@1@Golds@Golds@181@200@0@5100|@6704@5@1@5100|@1@0@669
+63@5@511@Robot Knight Ring@170@2000@Classe: Todas@@182@185@0@0@177@1@Golds@Golds@181@200@0@5110|@6819@5@1@5110|@1@0@669
+63@6@512@Mini Robot Ring@170@2000@Classe: Todas@@182@185@0@0@177@1@Golds@Golds@181@200@0@5120|@6820@5@1@5120|@1@0@669
+63@7@513@Pink Panda Ring@170@2000@Classe: Todas@@182@185@0@0@177@1@Golds@Golds@181@200@0@5130|@6734@5@1@5130|@1@0@669
+63@8@514@Brown Panda Ring@170@2000@Classe: Todas@@182@185@0@0@177@1@Golds@Golds@181@200@0@5140|@6733@5@1@5140|@1@0@669
+63@9@515@Panda Ring@170@2000@Classe: Todas@@182@185@0@0@177@1@Golds@Golds@181@200@0@5150|@6732@5@1@5150|@1@0@669
+63@10@516@Snowman Transformation Ring@170@2000@Classe: Todas@@182@185@0@0@177@1@Golds@Golds@181@200@0@5160|@6724@5@1@5160|@1@0@669
+63@11@517@Invitation to Santa Village@170@2000@Classe: Todas@@182@185@0@0@177@1@Golds@Golds@181@200@0@5170|@6722@5@1@5170|@1@0@669
+63@12@606@Horn of Fenrir@170@10000@Description@@182@185@0@0@177@1@M.Golds@M.Golds@181@200@0@6060|@6693@3@1@6060|@0@509@669
+64@1@661@Wings of Conqueror@170@20000@Asa +15 FULL@@182@185@0@0@177@1@M.Golds@M.Golds@181@200@0@6610|@6410@3@1@6610|@0@509@669
+64@2@662@Wings of Angel and Devil@170@20000@Asa +15 FULL@@182@185@0@0@177@1@M.Golds@M.Golds@181@200@0@6620|@6411@3@1@6620|@0@509@669
+64@3@663@Wing of Storm@170@18000@Asa +15 FULL@@182@185@0@0@177@1@M.Golds@M.Golds@181@200@0@6630|@6180@3@1@6630|@0@509@669
+64@4@664@Wing of Eternal@170@18000@Asa +15 FULL@@182@185@0@0@177@1@M.Golds@M.Golds@181@200@0@6640|@6181@3@1@6640|@0@509@669
+64@5@665@Wing of Illusion@170@18000@Asa +15 FULL@@182@185@0@0@177@1@M.Golds@M.Golds@181@200@0@6650|@6182@3@1@6650|@0@509@669
+64@6@666@Wing of Ruin@170@18000@Asa +15 FULL@@182@185@0@0@177@1@M.Golds@M.Golds@181@200@0@6660|@6183@3@1@6660|@0@509@669
+64@7@667@Cape of Emperor@170@18000@Asa +15 FULL@@182@185@0@0@177@1@M.Golds@M.Golds@181@200@0@6670|@6184@3@1@6670|@0@509@669
+64@8@668@Wing of Dimension@170@18000@Asa +15 FULL@@182@185@0@0@177@1@M.Golds@M.Golds@181@200@0@6680|@6187@3@1@6680|@0@509@669
+64@9@669@Cape of Overrule@170@18000@Asa +15 FULL@@182@185@0@0@177@1@M.Golds@M.Golds@181@200@0@6690|@6194@3@1@6690|@0@509@669
+64@10@670@Wing of Storm@170@3000@Normal +0@@182@185@0@0@177@1@Golds@Golds@181@200@0@6700|@6180@5@1@6700|@1@0@669
+64@11@671@Wing of Eternal@170@3000@Normal +0@@182@185@0@0@177@1@Golds@Golds@181@200@0@6710|@6181@5@1@6710|@1@0@669
+64@12@672@Wing of Illusion@170@3000@Normal +0@@182@185@0@0@177@1@Golds@Golds@181@200@0@6720|@6182@5@1@6720|@1@0@669
+64@13@673@Wing of Ruin@170@3000@Normal +0@@182@185@0@0@177@1@Golds@Golds@181@200@0@6730|@6183@5@1@6730|@1@0@669
+64@14@674@Cape of Emperor@170@3000@Normal +0@@182@185@0@0@177@1@Golds@Golds@181@200@0@6740|@6184@5@1@6740|@1@0@669
+64@15@675@Wing of Dimension@170@3000@Normal +0@@182@185@0@0@177@1@Golds@Golds@181@200@0@6750|@6187@5@1@6750|@1@0@669
+64@16@676@Cape of Overrule@170@3000@Normal +0@@182@185@0@0@177@1@Golds@Golds@181@200@0@6760|@6194@5@1@6760|@1@0@669
+64@17@677@Wings of Pegasus@170@3000@Normal +0@@182@185@0@0@177@1@Golds@Golds@181@200@0@6770|@6422@5@1@6770|@1@0@669
+64@18@678@Wings of Eagle@170@3000@Normal +0@@182@185@0@0@177@1@Golds@Golds@181@200@0@6780|@6421@5@1@6780|@1@0@669
+64@19@679@Wings of Dark Storm@170@3000@Normal +0@@182@185@0@0@177@1@Golds@Golds@181@200@0@6790|@6420@5@1@6790|@1@0@669
+64@20@680@Wings of Dragon Eye@170@3000@Normal +0@@182@185@0@0@177@1@Golds@Golds@181@200@0@6800|@6419@5@1@6800|@1@0@669
+64@21@681@Wings of Queem@170@3000@Normal +0@@182@185@0@0@177@1@Golds@Golds@181@200@0@6810|@6418@5@1@6810|@1@0@669
+64@22@682@Wings of Night@170@3000@Normal +0@@182@185@0@0@177@1@Golds@Golds@181@200@0@6820|@6417@5@1@6820|@1@0@669
+64@23@683@Wings of Phoenix@170@3000@Normal +0@@182@185@0@0@177@1@Golds@Golds@181@200@0@6830|@6416@5@1@6830|@1@0@669
+64@24@684@Wings of Dark Satan@170@3000@Normal +0@@182@185@0@0@177@1@Golds@Golds@181@200@0@6840|@6415@5@1@6840|@1@0@669
+64@25@685@Wings of Fairy Elf@170@3000@Normal +0@@182@185@0@0@177@1@Golds@Golds@181@200@0@6850|@6414@5@1@6850|@1@0@669
+64@26@686@Wings of Mega Angel@170@3000@Normal +0@@182@185@0@0@177@1@Golds@Golds@181@200@0@6860|@6413@5@1@6860|@1@0@669
+64@27@687@Wings of Pure Angel@170@3000@Normal +0@@182@185@0@0@177@1@Golds@Golds@181@200@0@6870|@6412@5@1@6870|@1@0@669
+65@1@690@Ring of Ice@170@15000@Item +15 FULL.@@182@185@0@0@177@1@M.Golds@M.Golds@181@200@0@6900|@6664@3@1@6900|@0@509@669
+65@2@691@Ring of Poison@170@15000@Item +15 FULL.@@182@185@0@0@177@1@M.Golds@M.Golds@181@200@0@6910|@6665@3@1@6910|@0@509@669
+65@3@692@Ring of Fire@170@15000@Item +15 FULL.@@182@185@0@0@177@1@M.Golds@M.Golds@181@200@0@6920|@6677@3@1@6920|@0@509@669
+65@4@693@Ring of Earth@170@15000@Item +15 FULL.@@182@185@0@0@177@1@M.Golds@M.Golds@181@200@0@6930|@6678@3@1@6930|@0@509@669
+65@5@694@Ring of Wind@170@15000@Item +15 FULL.@@182@185@0@0@177@1@M.Golds@M.Golds@181@200@0@6940|@6679@3@1@6940|@0@509@669
+65@6@695@Ring of Magic@170@15000@Item +15 FULL.@@182@185@0@0@177@1@M.Golds@M.Golds@181@200@0@6950|@6680@3@1@6950|@0@509@669
+66@1@696@Pendant of Ice@170@15000@Item +15 FULL.@@182@185@0@0@177@1@M.Golds@M.Golds@181@200@0@6960|@6681@3@1@6960|@0@509@669
+66@2@697@Pendant of Wind@170@15000@Item +15 FULL.@@182@185@0@0@177@1@M.Golds@M.Golds@181@200@0@6970|@6682@3@1@6970|@0@509@669
+66@3@698@Pendant of Water@170@15000@Item +15 FULL.@@182@185@0@0@177@1@M.Golds@M.Golds@181@200@0@6980|@6683@3@1@6980|@0@509@669
+66@4@699@Pendant of Ability@170@15000@Item +15 FULL.@@182@185@0@0@177@1@M.Golds@M.Golds@181@200@0@6990|@6684@3@1@6990|@0@509@669
+66@5@700@Pendant of Lighting@170@15000@Item +15 FULL.@@182@185@0@0@177@1@M.Golds@M.Golds@181@200@0@7000|@6668@3@1@7000|@0@509@669
+66@6@701@Pendant of Fire@170@15000@Item +15 FULL.@@182@185@0@0@177@1@M.Golds@M.Golds@181@200@0@7010|@6669@3@1@7010|@0@509@669
